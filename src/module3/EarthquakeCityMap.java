@@ -139,14 +139,21 @@ public class EarthquakeCityMap extends PApplet {
 		fill(153);
 		rect(20, 50, 150, 400);
 		
+		
 		fill(color(255,0,0));
 		ellipse(40, 100, 10, 10);
+		textSize(8);
+		text("5 + magnitude", 60, 100);
 		
 		fill(color(255,255,0));
 		ellipse(40, 150, 5, 5);
+		text("5 + magnitude", 60, 150);
 		
 		fill(color(0,0,255));
 		ellipse(40, 200, 3, 3);
+		text("5 + magnitude", 60, 200);
+		
+		
 		
 		
 	
