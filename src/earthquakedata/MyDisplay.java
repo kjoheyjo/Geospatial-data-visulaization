@@ -1,4 +1,4 @@
-package guimodule;
+package earthquakedata;
 
 import processing.core.PApplet;
 

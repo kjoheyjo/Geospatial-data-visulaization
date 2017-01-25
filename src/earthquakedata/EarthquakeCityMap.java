@@ -51,14 +51,6 @@ public class EarthquakeCityMap extends PApplet {
 		}
 		map.addMarkers(markers);
 		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 	
 	public void draw(){
