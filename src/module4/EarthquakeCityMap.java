@@ -19,8 +19,7 @@ import processing.core.PApplet;
 
 /** EarthquakeCityMap
  * An application with an interactive map displaying earthquake data.
- * Author: UC San Diego Intermediate Software Development MOOC team
- * @author Your name here
+ * @author Kaustubh Joshi
  * Date: July 17, 2015
  * */
 public class EarthquakeCityMap extends PApplet {
@@ -88,16 +87,28 @@ public class EarthquakeCityMap extends PApplet {
 		List<Feature> countries = GeoJSONReader.loadData(this, countryFile);
 		countryMarkers = MapUtils.createSimpleMarkers(countries);
 		
+		
+		
 		//     STEP 2: read in city data
 		List<Feature> cities = GeoJSONReader.loadData(this, cityFile);
 		cityMarkers = new ArrayList<Marker>();
 		for(Feature city : cities) {
 		  cityMarkers.add(new CityMarker(city));
 		}
+		
+		for(Feature f: cities){
+			System.out.println(f.getProperties());
+		}
+		
+		for(Marker m : cityMarkers){
+			System.out.println(m.getProperties());
+		}
 	    
 		//     STEP 3: read in earthquake RSS feed
 	    List<PointFeature> earthquakes = ParseFeed.parseEarthquake(this, earthquakesURL);
 	    quakeMarkers = new ArrayList<Marker>();
+	    
+	    
 	    
 	    for(PointFeature feature : earthquakes) {
 		  //check if LandQuake
@@ -166,6 +177,12 @@ public class EarthquakeCityMap extends PApplet {
 		
 		// TODO: Implement this method using the helper method isInCountry
 		
+		for(Marker mrk : countryMarkers){
+			if(isInCountry(earthquake, mrk)){
+				return true;
+			}
+		}
+		
 		// not inside any country
 		return false;
 	}
@@ -179,6 +196,11 @@ public class EarthquakeCityMap extends PApplet {
 	private void printQuakes() 
 	{
 		// TODO: Implement this method
+		/*for(Marker mrk : countryMarkers){
+			int quakeCount = 0;
+			for(PointFeature quake : earthquake)
+			System.out.println(mrk.getProperty("name") + " " + quakeCount);
+		}*/
 	}
 	
 	
