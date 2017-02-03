@@ -76,7 +76,7 @@ public class EarthquakeCityMap extends PApplet {
 		// FOR TESTING: Set earthquakesURL to be one of the testing files by uncommenting
 		// one of the lines below.  This will work whether you are online or offline
 		//earthquakesURL = "test1.atom";
-		//earthquakesURL = "test2.atom";
+		earthquakesURL = "test2.atom";
 		
 		// WHEN TAKING THIS QUIZ: Uncomment the next line
 		//earthquakesURL = "quiz1.atom";
@@ -96,13 +96,13 @@ public class EarthquakeCityMap extends PApplet {
 		  cityMarkers.add(new CityMarker(city));
 		}
 		
-		for(Feature f: cities){
+		/*for(Feature f: cities){
 			System.out.println(f.getProperties());
 		}
 		
 		for(Marker m : cityMarkers){
 			System.out.println(m.getProperties());
-		}
+		}*/
 	    
 		//     STEP 3: read in earthquake RSS feed
 	    List<PointFeature> earthquakes = ParseFeed.parseEarthquake(this, earthquakesURL);
@@ -196,11 +196,19 @@ public class EarthquakeCityMap extends PApplet {
 	private void printQuakes() 
 	{
 		// TODO: Implement this method
-		/*for(Marker mrk : countryMarkers){
+		for(Marker mrk : countryMarkers){
 			int quakeCount = 0;
-			for(PointFeature quake : earthquake)
-			System.out.println(mrk.getProperty("name") + " " + quakeCount);
-		}*/
+			for(Marker quake : quakeMarkers){
+				if(mrk.getProperty("name").equals(quake.getProperty("country"))){
+					quakeCount++ ;
+				}
+				
+			}
+			if(quakeCount > 0){
+				System.out.println(mrk.getProperty("name") + " " +  quakeCount);
+			}
+			
+		}
 	}
 	
 	
