@@ -76,10 +76,10 @@ public class EarthquakeCityMap extends PApplet {
 		// FOR TESTING: Set earthquakesURL to be one of the testing files by uncommenting
 		// one of the lines below.  This will work whether you are online or offline
 		//earthquakesURL = "test1.atom";
-		earthquakesURL = "test2.atom";
+		//earthquakesURL = "test2.atom";
 		
 		// WHEN TAKING THIS QUIZ: Uncomment the next line
-		//earthquakesURL = "quiz1.atom";
+		earthquakesURL = "quiz1.atom";
 		
 		
 		// (2) Reading in earthquake data and geometric properties
@@ -145,7 +145,7 @@ public class EarthquakeCityMap extends PApplet {
 	private void addKey() {	
 		// Remember you can use Processing's graphics methods here
 		fill(255, 250, 240);
-		rect(25, 50, 150, 250);
+		rect(25, 50, 150, 350);
 		
 		fill(0);
 		textAlign(LEFT, CENTER);
@@ -153,16 +153,38 @@ public class EarthquakeCityMap extends PApplet {
 		text("Earthquake Key", 50, 75);
 		
 		fill(color(255, 0, 0));
-		ellipse(50, 125, 15, 15);
-		fill(color(255, 255, 0));
-		ellipse(50, 175, 10, 10);
-		fill(color(0, 0, 255));
-		ellipse(50, 225, 5, 5);
+		int x = 50;
+		int y = 125;
+		triangle(x, y - 5, x -5, y + 5, x + 5, y + 5);
+		
+		fill(color(255, 255, 255));
+		ellipse(50, 175, 15, 15);
+		
+		rect(50, 225, 15, 15);
 		
 		fill(0, 0, 0);
-		text("5.0+ Magnitude", 75, 125);
-		text("4.0+ Magnitude", 75, 175);
-		text("Below 4.0", 75, 225);
+		text("City Marker", 75, 125);
+		text("Land Quake", 75, 175);
+		text("Ocean Quake", 75, 225);
+		
+		text("Size ~ Magnitude",50,250);
+		
+		text("Shallow",75,275);
+		text("Intermediate",75,300);
+		text("Deep",75,325);
+		
+		
+		
+		fill(255,255,0);
+		ellipse(50,275,10,10);
+		
+		fill(0,0,255);
+		ellipse(50,300,10,10);
+		
+		
+		fill(255,0,0);
+		ellipse(50,325,10,10);
+		
 	}
 
 	
@@ -195,20 +217,41 @@ public class EarthquakeCityMap extends PApplet {
 	// And LandQuakeMarkers have a "country" property set.
 	private void printQuakes() 
 	{
+		int OceanQuakes = 0;
+		int LandQuakes = 0;
+		int countryQuakes = 0;
 		// TODO: Implement this method
 		for(Marker mrk : countryMarkers){
 			int quakeCount = 0;
 			for(Marker quake : quakeMarkers){
 				if(mrk.getProperty("name").equals(quake.getProperty("country"))){
 					quakeCount++ ;
+					countryQuakes++;
 				}
 				
 			}
+			
+			
 			if(quakeCount > 0){
 				System.out.println(mrk.getProperty("name") + " " +  quakeCount);
 			}
 			
+			
 		}
+		
+		for(Marker quake : quakeMarkers){
+			if(!((EarthquakeMarker) quake).isOnLand()){
+				OceanQuakes++;
+			}
+		}
+		
+		for(Marker quake : quakeMarkers){
+			if(((EarthquakeMarker) quake).isOnLand()){
+				LandQuakes++;
+			}
+		}
+		
+		System.out.println("Ocean " +  OceanQuakes + " total: " + quakeMarkers.size() + " Land : " + LandQuakes + " CountryQuakes: " + countryQuakes);
 	}
 	
 	

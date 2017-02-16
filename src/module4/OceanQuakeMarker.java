@@ -31,6 +31,9 @@ public class OceanQuakeMarker extends EarthquakeMarker {
 		
 		// TODO: Implement this method
 		
+		float r = getRadius();
+		pg.rect(x, y, r, r);
+		
 	}
 	
 

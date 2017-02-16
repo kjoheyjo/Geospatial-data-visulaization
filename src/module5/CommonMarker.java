@@ -6,8 +6,7 @@ import processing.core.PGraphics;
 
 /** Implements a common marker for cities and earthquakes on an earthquake map
  * 
- * @author UC San Diego Intermediate Software Development MOOC team
- * @author Your name here
+ * @author Kaustubh Joshi
  *
  */
 public abstract class CommonMarker extends SimplePointMarker {
@@ -45,7 +44,10 @@ public abstract class CommonMarker extends SimplePointMarker {
 				showTitle(pg, x, y);  // You will implement this in the subclasses
 			}
 		}
+		
+		
 	}
+
 	public abstract void drawMarker(PGraphics pg, float x, float y);
 	public abstract void showTitle(PGraphics pg, float x, float y);
 }
