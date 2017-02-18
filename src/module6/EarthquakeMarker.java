@@ -180,7 +180,18 @@ public abstract class EarthquakeMarker extends CommonMarker implements Comparabl
 	}
 	
 	public int compareTo(EarthquakeMarker o){
-		return (int) Math.floor(this.getMagnitude() - o.getMagnitude() );
+		
+		float a = this.getMagnitude() - o.getMagnitude();
+		
+		if(a > 0){
+			return -1;
+		}else if(a < 0){
+			return 1;
+		}else{
+			return 0;
+		}
+		
+
 	}	
 
 	

@@ -6,6 +6,9 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
+import javax.swing.JMenuItem;
+import javax.swing.JPopupMenu;
+
 import de.fhpotsdam.unfolding.UnfoldingMap;
 import de.fhpotsdam.unfolding.data.Feature;
 import de.fhpotsdam.unfolding.data.GeoJSONReader;
@@ -126,7 +129,11 @@ public class EarthquakeCityMap extends PApplet {
 	    map.addMarkers(quakeMarkers);
 	    map.addMarkers(cityMarkers);
 	    
-	    sortAndPrint(10);
+	    sortAndPrint(100);
+	    
+	    JPopupMenu menu = new JPopupMenu();
+	    
+	    JMenuItem item = new JMenuItem();
 	    
 	    
 	}  // End setup
