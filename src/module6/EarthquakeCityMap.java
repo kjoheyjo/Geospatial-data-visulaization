@@ -2,6 +2,8 @@ package module6;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
+import java.util.Collections;
 import java.util.List;
 
 import de.fhpotsdam.unfolding.UnfoldingMap;
@@ -123,6 +125,8 @@ public class EarthquakeCityMap extends PApplet {
 	    //           for their geometric properties
 	    map.addMarkers(quakeMarkers);
 	    map.addMarkers(cityMarkers);
+	    
+	    sortAndPrint(10);
 	    
 	    
 	}  // End setup
@@ -260,6 +264,24 @@ public class EarthquakeCityMap extends PApplet {
 		for(Marker marker : cityMarkers) {
 			marker.setHidden(false);
 		}
+	}
+	
+	
+	private void sortAndPrint(int numToPrint){
+		
+		Marker[] quakes = new Marker[quakeMarkers.size()];
+		
+		quakes = quakeMarkers.toArray(quakes);
+		
+		Arrays.sort(quakes);
+		
+		for(int i = 0; i < numToPrint; i++){
+			
+			System.out.println(quakes[i]);
+			
+		}
+				
+		
 	}
 	
 	// helper method to draw key in GUI
