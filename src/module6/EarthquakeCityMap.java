@@ -22,11 +22,11 @@ import de.fhpotsdam.unfolding.providers.MBTilesMapProvider;
 import de.fhpotsdam.unfolding.utils.MapUtils;
 import parsing.ParseFeed;
 import processing.core.PApplet;
+import processing.core.PGraphics;
 
 /** EarthquakeCityMap
  * An application with an interactive map displaying earthquake data.
- * Author: UC San Diego Intermediate Software Development MOOC team
- * @author Your name here
+ * @author Kaustubh Joshi
  * Date: July 17, 2015
  * */
 public class EarthquakeCityMap extends PApplet {
@@ -41,7 +41,7 @@ public class EarthquakeCityMap extends PApplet {
 	private static final long serialVersionUID = 1L;
 
 	// IF YOU ARE WORKING OFFILINE, change the value of this variable to true
-	private static final boolean offline = false;
+	private static final boolean offline = true;
 	
 	/** This is where to find the local tiles, for working without an Internet connection */
 	public static String mbTilesString = "blankLight-1-3.mbtiles";
@@ -70,9 +70,27 @@ public class EarthquakeCityMap extends PApplet {
 	private CommonMarker lastSelected;
 	private CommonMarker lastClicked;
 	
+	PGraphics buffer;
+	JPopupMenu menu = new JPopupMenu();
+	
+	JMenuItem qItemLocation;
+	JMenuItem cItemName,cItemMagnitude,cItemThreatCount,cItemLatestEarthquake ;
+	
+	
 	public void setup() {		
 		// (1) Initializing canvas and map tiles
 		size(900, 700, OPENGL);
+		
+		
+		
+		JMenuItem item = new JMenuItem("INFO");
+		menu.add(item);
+		
+		
+		
+		
+		buffer = createGraphics(900,700);
+		
 		if (offline) {
 		    map = new UnfoldingMap(this, 200, 50, 650, 600, new MBTilesMapProvider(mbTilesString));
 		    earthquakesURL = "2.5_week.atom";  // The same feed, but saved August 7, 2015
@@ -131,15 +149,24 @@ public class EarthquakeCityMap extends PApplet {
 	    
 	    sortAndPrint(100);
 	    
-	    JPopupMenu menu = new JPopupMenu();
 	    
-	    JMenuItem item = new JMenuItem();
 	    
 	    
 	}  // End setup
 	
+	public void drawBox(){
+		buffer.beginDraw();
+		buffer.background(102);
+		buffer.stroke(255);
+		buffer.line(200, 200, mouseX, mouseY);
+		buffer.endDraw();
+		image(buffer, 50, 50); 
+	}
 	
 	public void draw() {
+		
+		drawBox();
+		
 		background(0);
 		map.draw();
 		addKey();
@@ -195,16 +222,27 @@ public class EarthquakeCityMap extends PApplet {
 	@Override
 	public void mouseClicked()
 	{
-		if (lastClicked != null) {
-			unhideMarkers();
+		if (lastClicked != null ) {
 			lastClicked = null;
-		}
-		else if (lastClicked == null) 
-		{
 			checkEarthquakesForClick();
 			if (lastClicked == null) {
 				checkCitiesForClick();
 			}
+			if (lastClicked == null) {
+				unhideMarkers();
+				menu.removeAll();
+			}
+			
+		}
+		else if (lastClicked == null) 
+		{
+			lastSelected = null;
+			checkEarthquakesForClick();
+			if (lastClicked == null) {
+				checkCitiesForClick();
+			}
+			
+			menu.show(getComponentAt(mouseX, mouseY), mouseX, mouseY);
 		}
 	}
 	
@@ -214,9 +252,16 @@ public class EarthquakeCityMap extends PApplet {
 	{
 		if (lastClicked != null) return;
 		// Loop over the earthquake markers to see if one of them is selected
+		lastClicked = null;
 		for (Marker marker : cityMarkers) {
 			if (!marker.isHidden() && marker.isInside(map, mouseX, mouseY)) {
 				lastClicked = (CommonMarker)marker;
+				cItemName = new JMenuItem(marker.getStringProperty("name"));
+				int threatCount = 0;
+				float totalMagnitude = 0;
+				float avgMagnitude = 0;
+				EarthquakeMarker recent = null;
+				String recentTitle = "";
 				// Hide all the other earthquakes and hide
 				for (Marker mhide : cityMarkers) {
 					if (mhide != lastClicked) {
@@ -228,8 +273,38 @@ public class EarthquakeCityMap extends PApplet {
 					if (quakeMarker.getDistanceTo(marker.getLocation()) 
 							> quakeMarker.threatCircle()) {
 						quakeMarker.setHidden(true);
+					}else{
+						threatCount++;
+						totalMagnitude = totalMagnitude + quakeMarker.getMagnitude();
+						//quakeMarker.get
+						if(quakeMarker.getStringProperty("age").equals("Past Day")){
+							recent = quakeMarker;
+						}else if(quakeMarker.getStringProperty("age").equals("Past Week") && recent != null && !recent.getStringProperty("age").equals("Past Day") ){
+							recent = quakeMarker;
+						}else if(quakeMarker.getStringProperty("age").equals("Past Month") && recent != null && !recent.getStringProperty("age").equals("Past Week") ){
+							recent = quakeMarker;
+						}else{
+							recent = quakeMarker;
+						}
 					}
 				}
+				
+				if(threatCount==0){
+					avgMagnitude = 0;
+					recentTitle = "NA";
+				}else{
+					avgMagnitude = totalMagnitude/threatCount;
+					recentTitle = recent.getTitle();
+				}
+				
+				cItemLatestEarthquake = new JMenuItem("Latest earthquake: " + recentTitle);
+				cItemMagnitude = new JMenuItem("Average Magnitude: " + Float.toString(avgMagnitude));
+				cItemThreatCount = new JMenuItem("Threat Count: " + threatCount);
+				
+				menu.add(cItemName);
+				menu.add(cItemMagnitude);
+				menu.add(cItemThreatCount);
+				menu.add(cItemLatestEarthquake);
 				return;
 			}
 		}		
@@ -241,10 +316,12 @@ public class EarthquakeCityMap extends PApplet {
 	{
 		if (lastClicked != null) return;
 		// Loop over the earthquake markers to see if one of them is selected
+		lastClicked = null;
 		for (Marker m : quakeMarkers) {
 			EarthquakeMarker marker = (EarthquakeMarker)m;
 			if (!marker.isHidden() && marker.isInside(map, mouseX, mouseY)) {
 				lastClicked = marker;
+				//item = 
 				// Hide all the other earthquakes and hide
 				for (Marker mhide : quakeMarkers) {
 					if (mhide != lastClicked) {
@@ -284,7 +361,7 @@ public class EarthquakeCityMap extends PApplet {
 		
 		for(int i = 0; i < numToPrint; i++){
 			
-			System.out.println(quakes[i]);
+			System.out.println(quakes[i] );
 			
 		}
 				
