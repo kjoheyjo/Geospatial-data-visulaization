@@ -1,0 +1,887 @@
+{country="Bangladesh", altitude=0, code="", city="Khulna", name="Khulna Seaplane Landing Site"}
+{country="United States", altitude=1278, code="MFI", city="Marshfield", name="Marshfield Municipal Airport"}
+{country="United States", altitude=1021, code="ISW", city="Wisconsin Rapids", name="Alexander Field South Wood County Airport"}
+{country="United States", altitude=708, code="CWI", city="Clinton", name="Clinton Municipal"}
+{country="Germany", altitude=1000, code="", city="Langenfeld", name="Wiescheid"}
+{country="Jordan", altitude=1000, code="", city="Wadi Rum Desert", name="Wadi Rum"}
+{country="United States", altitude=107, code="BVY", city="Beverly", name="Beverly Municipal Airport"}
+{country="Russia", altitude=200, code="", city="Priob\\'e", name="Priob\\'e"}
+{country="India", altitude=3853, code="", city="Nagaur", name="Nagaur Airport"}
+{country="Russia", altitude=568, code="", city="Moscow", name="Ostafyevo International Airport"}
+{country="United States", altitude=237, code="O27", city="Oakdale", name="Oakdale Airport"}
+{country="Canada", altitude=199, code="YRQ", city="Trois Rivieres", name="Trois Rivieres Airport"}
+{country="United States", altitude=331, code="POF", city="Poplar Bluff", name="Poplar Bluff Municipal Airport"}
+{country="United States", altitude=105, code="", city="Somerville", name="Somerset Airport"}
+{country="United States", altitude=45, code="EPM", city="Eastport", name="Eastport Municipal Airport"}
+{country="United States", altitude=671, code="EOK", city="Keokuk", name="Keokuk Municipal Airport"}
+{country="United States", altitude=100, code="ME5", city="Swans Island", name="Banks Airport"}
+{country="United Kingdom", altitude=392, code="PSL", city="Perth", name="Perth Scone Airport"}
+{country="United Kingdom", altitude=14, code="", city="Caernarfon", name="Caernarfon Airport"}
+{country="Germany", altitude=105, code="", city="Grefrath", name="Grefrath-Niershorst Airport"}
+{country="Germany", altitude=535, code="", city="Offenburg", name="Offenburg"}
+{country="Germany", altitude=1060, code="", city="Oberwolfach", name="Oberwolfach"}
+{country="Germany", altitude=377, code="", city="Karlsruhe", name="Karlsruhe Hbf"}
+{country="Germany", altitude=984, code="", city="Lichtenwalde", name="Lichtenwalde"}
+{country="Germany", altitude=377, code="", city="Karlsruhe", name="Karlsruhe"}
+{country="Germany", altitude=1969, code="", city="Holzhau", name="Holzhau"}
+{country="Portugal", altitude=341, code="", city="Porto", name="Porto"}
+{country="Portugal", altitude=7, code="", city="Lisboa", name="Lisboa-Oriente"}
+{country="Germany", altitude=1198, code="", city="Bad Herrenalb", name="Bad Herrenalb"}
+{country="United States", altitude=705, code="", city="St. Paul", name="St. Paul Downtown Airport - Holman Field"}
+{country="Sweden", altitude=94, code="SOO", city="Soderhamn", name="Soderhamn Airport"}
+{country="Ireland", altitude=14, code="", city="Newcastle", name="Newcastle Airfield"}
+{country="Laos", altitude=612, code="VNA", city="Saravane", name="Saravane Airport"}
+{country="Portugal", altitude=6, code="", city="Lisboa", name="Lisboa-Oriente"}
+{country="Portugal", altitude=6, code="", city="Lisboa-Oriente", name="Lisboa-Oriente"}
+{country="Switzerland", altitude=1339, code="", city="Zurich", name="Zurich"}
+{country="United States", altitude=4183, code="E51", city="Bagdad", name="Bagdad Airport"}
+{country="Germany", altitude=141, code="", city="Segeletz", name="Segeletz Airport"}
+{country="Spain", altitude=3284, code="", city="Segovia", name="Fuentemilanos Airport"}
+{country="Japan", altitude=12, code="", city="Akeno", name="Akeno Aero"}
+{country="Russia", altitude=200, code="", city="Ust Kamchatsk", name="Ust Kamchatsk Airport"}
+{country="United States", altitude=885, code="", city="Oconomowoc", name="Oconomowoc Airport"}
+{country="Russia", altitude=331, code="", city="Kozyrevsk", name="Kozyrevsk Airport"}
+{country="Russia", altitude=47, code="DKS", city="Dikson", name="Dikson Airport"}
+{country="Australia", altitude=381, code="", city="Mine Site", name="Beverley Airport"}
+{country="Canada", altitude=531, code="XBG", city="Bogande", name="Bogande Airport"}
+{country="Ireland", altitude=7, code="BYT", city="Bantry", name="Bantry Aerodrome"}
+{country="Ireland", altitude=314, code="CHE", city="Caherciveen", name="Reeroe Airport"}
+{country="South Africa", altitude=4361, code="", city="Aliwal North", name="Aliwal North"}
+{country="South Africa", altitude=3585, code="", city="Alkantpan", name="Alkantpan Airport"}
+{country="South Africa", altitude=2676, code="ADY", city="Alldays", name="Alldays Airport"}
+{country="South Africa", altitude=2260, code="", city="Barberton", name="Barberton Airport"}
+{country="United States", altitude=940, code="E55", city="Gualala", name="Ocean Ridge Airport"}
+{country="United States", altitude=1134, code="1G3", city="Kent", name="Kent State Airport"}
+{country="United States", altitude=633, code="", city="Hamilton", name="Bulter County Regional Airport"}
+{country="Kenya", altitude=4752, code="", city="Bungoma", name="Bungoma Airport"}
+{country="Kenya", altitude=295, code="", city="Bura", name="Bura East"}
+{country="Kenya", altitude=3989, code="", city="Busia", name="Busia"}
+{country="Kenya", altitude=4131, code="", city="Embu", name="Embu"}
+{country="Kenya", altitude=1764, code="", city="Garba Tula", name="Garba Tula"}
+{country="Kenya", altitude=469, code="GAS", city="Garissa", name="Garissa"}
+{country="Kenya", altitude=220, code="HOA", city="Hola", name="Hola"}
+{country="Kenya", altitude=4231, code="", city="Homa Bay", name="Homa Bay"}
+{country="Kenya", altitude=3688, code="", city="Isiolo", name="Isiolo"}
+{country="Kenya", altitude=1296, code="KLK", city="Kalokol", name="Kalokol"}
+{country="Kenya", altitude=6453, code="KEY", city="Kericho", name="Kericho"}
+{country="Kenya", altitude=2832, code="ILU", city="Kilaguni", name="Kilaguni"}
+{country="Kenya", altitude=7095, code="KRV", city="Kimwarer", name="Kerio Valley"}
+{country="Madagascar", altitude=27, code="DVD", city="Andavadoaka", name="Andavadoaka"}
+{country="Madagascar", altitude=4913, code="ATJ", city="Antsirabe", name="Antsirabe"}
+{country="Madagascar", altitude=1259, code="OVA", city="Bekily", name="Bekily"}
+{country="Russia", altitude=262, code="", city="Ust-Tsylma", name="Ust-Tsylma"}
+{country="United States", altitude=8, code="ZRA", city="Atlantic City NJ", name="Atlantic City Rail Terminal"}
+{country="United States", altitude=65, code="ZSF", city="Springfield MA", name="Springfield Amtrak Station"}
+{country="United States", altitude=258, code="XZK", city="Amherst MA", name="Amherst Amtrak Station AMM"}
+{country="United States", altitude=0, code="", city="Cape May NJ", name="Cape May Ferry Terminal"}
+{country="United States", altitude=0, code="", city="Lewes DE", name="Lewes Ferry Terminal"}
+{country="United States", altitude=0, code="", city="Bar Harbor ME", name="Bar Harbor Yarmouth Ferry Terminal"}
+{country="Canada", altitude=0, code="", city="Yarmouth NS", name="Yarmouth Ferry Terminal"}
+{country="Switzerland", altitude=1280, code="", city="Montreux", name="Gare de Montreux Railway Station"}
+{country="United Kingdom", altitude=72, code="QQK", city="London", name="London - Kings Cross"}
+{country="United Kingdom", altitude=262, code="XVJ", city="Stevenage", name="Stevenage Railway Station"}
+{country="United Kingdom", altitude=91, code="XVH", city="Peterborough", name="Peterborough Railway Station"}
+{country="Indonesia", altitude=0, code="PUM", city="Pomalaa", name="Pomalaa"}
+{country="United States", altitude=587, code="", city="St. Ignace MI", name="St. Ignace Ferry Dock"}
+{country="United States", altitude=889, code="", city="Mackinac Island MI", name="Mackinac Island Dock"}
+{country="Russia", altitude=413, code="", city="YUR'EVETS", name="YUR'EVETS"}
+{country="United Kingdom", altitude=95, code="WLF", city="Whittlesford", name="Whittlesford Parkway Rail Station"}
+{country="Russia", altitude=965, code="RGK", city="Gorno-Altaysk", name="Gorno-Altaysk Airport"}
+{country="Poland", altitude=520, code="", city="Gryzliny", name="Gryzliny - Lansk"}
+{country="United States", altitude=808, code="FLD", city="Fond du Lac", name="Fond Du Lac County Airport"}
+{country="United States", altitude=840, code="PCZ", city="Waupaca", name="Waupaca Municipal Airport"}
+{country="United States", altitude=1110, code="STE", city="Stevens Point", name="Stevens Point Municipal Airport"}
+{country="Russia", altitude=20, code="", city="Mys Shmidta", name="Mys Shmidta Airport"}
+{country="Russia", altitude=656, code="", city="Honuu", name="Moma Airport"}
+{country="United States", altitude=869, code="ERY", city="Newberry", name="Luce County Airport"}
+{country="United States", altitude=925, code="25D", city="Forest Lake", name="Forest Lake Airport"}
+{country="Germany", altitude=152, code="ZVM", city="Hannover", name="Hannover Messe-Heliport"}
+{country="Germany", altitude=7, code="PEF", city="Peenemunde", name="Peenemunde Airfield"}
+{country="Poland", altitude=110, code="", city="Goraszka", name="Goraszka"}
+{country="Indonesia", altitude=16, code="", city="Nusawiru", name="Pangandaran-Java Island-Nusawiru Airport"}
+{country="Botswana", altitude=965, code="", city="Pom Pom", name="Pom Pom Camp"}
+{country="Botswana", altitude=965, code="", city="Moremi", name="Moremi Crossing"}
+{country="India", altitude=708, code="", city="New Delhi", name="New Delhi Train Station"}
+{country="India", altitude=571, code="", city="Agra", name="Agra Cantonment Railway Station"}
+{country="China", altitude=2844, code="", city="Urumqi", name="Urumqi Railway Station"}
+{country="China", altitude=98, code="", city="Turpan", name="Turpan Railway Station"}
+{country="United States", altitude=1224, code="GQQ", city="Galion", name="Galion Municipal Airport"}
+{country="Kenya", altitude=5200, code="", city="Musiara", name="Musiara Airstrip"}
+{country="Ecuador", altitude=997, code="TPN", city="Tiputini", name="Tiputini"}
+{country="Ecuador", altitude=7076, code="PTZ", city="Pastaza", name="Shell Mera"}
+{country="United States", altitude=550, code="CKV", city="Clarksville", name="Clarksville-Montgomery County Regional Airport"}
+{country="United Kingdom", altitude=0, code="", city="Oban", name="Oban Rail Station"}
+{country="Germany", altitude=2077, code="", city="Memmingen", name="Memmingen Rail Station"}
+{country="Germany", altitude=1641, code="", city="Ulm", name="Ulm Railway Station"}
+{country="Germany", altitude=873, code="", city="Aachen", name="Aachen HBF"}
+{country="Belgium", altitude=659, code="XHN", city="Liege", name="Liege-Guillemins Railway Station"}
+{country="Belgium", altitude=43, code="", city="Brussels", name="Bruxelles-Central"}
+{country="Germany", altitude=24, code="OHR", city="Wyk", name="Wyk auf Foehr"}
+{country="United States", altitude=88, code="LPC", city="Lompoc", name="Lompoc Airport"}
+{country="United States", altitude=660, code="CTH", city="Coatesville", name="Chester County G O Carlson Airport"}
+{country="Afghanistan", altitude=2464, code="BST", city="Lashkar Gah", name="Bost Airport"}
+{country="Azerbaijan", altitude=30, code="LLK", city="Lankaran", name="Lankaran International Airport"}
+{country="Azerbaijan", altitude=100, code="GBB", city="Qabala", name="Qabala Airport"}
+{country="Azerbaijan", altitude=100, code="ZTU", city="Zaqatala", name="Zaqatala International Airport"}
+{country="United States", altitude=1747, code="LKP", city="Lake Placid", name="Lake Placid Airport"}
+{country="United States", altitude=1629, code="NY9", city="Long Lake", name="Long Lake"}
+{country="Russia", altitude=932, code="", city="Khandyga", name="Tyopliy Klyuch"}
+{country="Russia", altitude=577, code="", city="Yakutsk", name="Magan"}
+{country="China", altitude=2461, code="JIQ", city="Qianjiang", name="Zhoubai"}
+{country="Russia", altitude=50, code="DEE", city="Yuzhno-Kurilsk", name="Mendeleevo"}
+{country="United States", altitude=1, code="WIH", city="Wishram", name="Wishram Amtrak Station"}
+{country="United States", altitude=975, code="AOH", city="Lima", name="Lima Allen County Airport"}
+{country="North Korea", altitude=0, code="DSO", city="Hamhung", name="Sondok Airport"}
+{country="North Korea", altitude=0, code="YJS", city="Samjiyon", name="Samjiyon Airport"}
+{country="Norway", altitude=0, code="", city="Geiranger Fjord", name="Geiranger"}
+{country="India", altitude=1500, code="", city="Gangtok", name="Gangtok Helipad"}
+{country="United States", altitude=19, code="SSI", city="Brunswick", name="McKinnon Airport"}
+{country="United States", altitude=1253, code="BFP", city="Beaver Falls", name="Beaver Falls"}
+{country="United States", altitude=140, code="F57", city="Winterhaven", name="Seaplane Base"}
+{country="United States", altitude=40, code="GGE", city="Georgetown", name="Georgetown County Airport"}
+{country="United States", altitude=874, code="HDI", city="Cleveland", name="Hardwick Field Airport"}
+{country="United States", altitude=718, code="2A0", city="Dayton", name="Mark Anton Airport"}
+{country="United States", altitude=1196, code="2G2", city="Steubenville", name="Jefferson County Airpark"}
+{country="United States", altitude=32, code="RNT", city="Renton", name="Renton"}
+{country="Canada", altitude=374, code="ZBM", city="Bromont", name="Bromont Airport"}
+{country="United States", altitude=1014, code="POC", city="La Verne", name="Brackett Field"}
+{country="United States", altitude=11, code="09J", city="Jekyll Island", name="Jekyll Island Airport"}
+{country="United States", altitude=11, code="CDK", city="Cedar Key", name="CedarKey"}
+{country="United States", altitude=42, code="CTY", city="Cross City", name="Cross City"}
+{country="United States", altitude=891, code="CEU", city="Clemson", name="Clemson"}
+{country="United States", altitude=5637, code="36U", city="Heber", name="Heber City Municipal Airport"}
+{country="United States", altitude=1409, code="BEC", city="Wichita", name="Beech Factory Airport"}
+{country="United States", altitude=1219, code="47A", city="Canton", name="Cherokee County Airport"}
+{country="United States", altitude=16, code="55J", city="Fernandina Beach", name="Fernandina Beach Municipal Airport"}
+{country="Indonesia", altitude=3, code="", city="Padang", name="Padang Tabing"}
+{country="United States", altitude=651, code="", city="Calhoun", name="Tom B. David Field Airport"}
+{country="United States", altitude=1448, code="", city="Cornelia", name="Habersham County Airport"}
+{country="Germany", altitude=30, code="ZMB", city="Hamburg", name="Hamburg Hbf"}
+{country="United States", altitude=790, code="GTU", city="Georgetown", name="Georgetown Municipal Airport"}
+{country="United States", altitude=323, code="", city="Rhinebeck", name="Old Rhinebeck Airport"}
+{country="United Kingdom", altitude=125, code="QFO", city="Duxford", name="Duxford Aerodrome"}
+{country="Germany", altitude=551, code="", city="Blankenburg", name="BLABU"}
+{country="United States", altitude=4313, code="SNY", city="Sidney", name="Sidney Muni Airport"}
+{country="Mali", altitude=538, code="", city="Bengassi", name="Manantali Bengassi Airport "}
+{country="Australia", altitude=21, code="", city="Schofields", name="Schofields Aerodrome"}
+{country="United States", altitude=903, code="", city="Luray", name="Luray Caverns Airport"}
+{country="United States", altitude=1437, code="W13", city="Waynesboro", name="Eagle's Nest Airport"}
+{country="Australia", altitude=250, code="GKL", city="Great Keppel Island", name="Great Keppel Island"}
+{country="Australia", altitude=70, code="RPB", city="Roper Bar", name="Roper Bar"}
+{country="Australia", altitude=2159, code="", city="Mount Garnet", name="Mount Garnet"}
+{country="Australia", altitude=46, code="IFL", city="Innisfail", name="Innisfail"}
+{country="United States", altitude=30, code="", city="Kapolei", name="Kalaeloa"}
+{country="Afghanistan", altitude=2550, code="BIN", city="Bamyan", name="Bamyan Airport"}
+{country="China", altitude=2762, code="NBS", city="Baishan", name="Changbaishan Airport"}
+{country="United States", altitude=13, code="", city="Sausalito", name="SFO Helicopter"}
+{country="Kenya", altitude=6250, code="", city="Lewa Downs", name="Lewa Airport"}
+{country="Ecuador", altitude=1000, code="", city="Huaorani", name="Huaorani Ecolodge"}
+{country="North Korea", altitude=0, code="RGO", city="Chongjin", name="Chongjin Airport"}
+{country="Australia", altitude=143, code="MOO", city="Moomba", name="Moomba"}
+{country="Poland", altitude=203, code="LUZ", city="Lublin", name="Lublin"}
+{country="United States", altitude=756, code="", city="Huntsville", name="Madison County Executive Airport"}
+{country="United States", altitude=389, code="JYO", city="Leesburg", name="Leesburg Executive Airport"}
+{country="Canada", altitude=1100, code="", city="Guelph", name="CNC4"}
+{country="Canada", altitude=1100, code="", city="Geulph", name="CNC4"}
+{country="Chile", altitude=433, code="", city="San Juan Bautista", name="Robinson Crusoe Airport"}
+{country="Maldives", altitude=6, code="VAM", city="Maamigili", name="Maamigili Airport"}
+{country="Maldives", altitude=6, code="IRU", city="Maldives Hilton Iru fushi", name="Hilton Iru fushi"}
+{country="Maldives", altitude=6, code="DHG", city="Dhigurah", name="Dhigurah Centara Grand Maldives"}
+{country="China", altitude=143, code="", city="Beijing", name="Beijing Railway Station"}
+{country="China", altitude=1083, code="", city="Chengde", name="Chengde Railway Station"}
+{country="China", altitude=428, code="LLF", city="Yongzhou", name="Yongzhou Lingling Airport"}
+{country="Croatia", altitude=154, code="LSZ", city="Mali Losinj", name="Losinj Airport"}
+{country="Australia", altitude=23, code="ONS", city="Onslow", name="Onslow "}
+{country="Australia", altitude=560, code="TDR", city="Theodore", name="Theodore"}
+{country="Poland", altitude=262, code="CZW", city="RUDNIKI", name="RUDNIKI "}
+{country="United States", altitude=424, code="SDC", city="Williamson", name="Williamson-Sodus Airport"}
+{country="United States", altitude=35, code="CLC", city="Clear Lake City", name="Clear Lake Metroport"}
+{country="Argentina", altitude=5523, code="CFX", city="Cafayate", name="Gilberto Lavaque"}
+{country="United Kingdom", altitude=80, code="", city="Fairoaks", name="Woking"}
+{country="United States", altitude=5288, code="WBU", city="Boulder", name="Boulder Municipal"}
+{country="Germany", altitude=115, code="", city="Neustadt-Glewe", name="Neustadt-Glewe"}
+{country="Germany", altitude=2297, code="", city="Bischofswiesen", name="Berchtesgarden BKS"}
+{country="Germany", altitude=10, code="", city="Warnemuende", name="Hohe Duene"}
+{country="China", altitude=25, code="TVS", city="Tangshan", name="Sannvhe"}
+{country="Belgium", altitude=246, code="", city="GOETSENHOVEN", name="GOETSENHOVEN AB"}
+{country="Germany", altitude=200, code="", city="Wildenrath", name="Wildenrath AB Closed"}
+{country="Germany", altitude=300, code="", city="Bremgarten", name="Bremgarten Airport"}
+{country="Germany", altitude=1200, code="", city="Birburg", name="Bitburg AB closed"}
+{country="France", altitude=936, code="", city="Toul", name="Toul AB closed"}
+{country="United States", altitude=7, code="PAO", city="Palo Alto", name="Palo Alto Airport of Santa Clara County"}
+{country="United Arab Emirates", altitude=0, code="", city="Dubai", name="Dubai Cruise Terminal"}
+{country="Russia", altitude=3000, code="", city="Ust-Nera", name="Ust-Nera Airport"}
+{country="Czech Republic", altitude=988, code="", city="Vysoke Myto", name="Vostice"}
+{country="Belgium", altitude=1581, code="", city="Spa", name="Spa La Sauveniere"}
+{country="United States", altitude=1394, code="FFZ", city="Mesa", name="Mesa Falcon Field"}
+{country="United States", altitude=1574, code="P08", city="Cooldige", name="Coolidge Municipal Airport"}
+{country="United States", altitude=3550, code="P52", city="Cottonwood", name="Cottonwood Airport"}
+{country="Belgium", altitude=594, code="", city="Namur", name="Suarlee Airport"}
+{country="Belgium", altitude=141, code="", city="Hasselt", name="Hasselt Airport"}
+{country="United States", altitude=1300, code="A39", city="Phoenix", name="Phoenix Regional Airport"}
+{country="United States", altitude=2377, code="E25", city="Wickenburg", name="Wickenburg Municipal Airport"}
+{country="China", altitude=7, code="YTY", city="Yangzhou", name="Yangzhou Taizhou Airport"}
+{country="United States", altitude=980, code="PTK", city="Pontiac", name="Oakland Co. Intl"}
+{country="China", altitude=39, code="", city="Fuzhou", name="Fuzhou Railway Station"}
+{country="China", altitude=255, code="", city="Xiamen", name="Xiamen Railway Station"}
+{country="Guinea", altitude=550, code="KSI", city="Kissidougou", name="Kissidougou"}
+{country="Hungary", altitude=1000, code="QPJ", city="Pecs", name="Pecs"}
+{country="Germany", altitude=300, code="", city="Neuwied", name="Neuwied"}
+{country="Italy", altitude=1100, code="", city="Castelnuovo di Garfagnana", name="Castelnuovo di Garfagnana"}
+{country="Italy", altitude=10, code="", city="Portovenere", name="Portovenere"}
+{country="Netherlands", altitude=10, code="", city="Amsterdam", name="Amsterdam Zuid WTC"}
+{country="Hungary", altitude=100, code="", city="Budapest", name="Budapest Keteli"}
+{country="Croatia", altitude=500, code="", city="Zagreb", name="Zagreb Glavni Kolod."}
+{country="United States", altitude=149, code="EEN", city="Keene", name="Dillant Hopkins Airport"}
+{country="China", altitude=9186, code="THQ", city="Tianshui", name="Tianshui Airport"}
+{country="Cuba", altitude=16, code="", city="Kawama", name="Kawama Airport"}
+{country="Cuba", altitude=0, code="", city="Yumuri Valley", name="Yumuri Valley"}
+{country="Maldives", altitude=10, code="GKK", city="Kooddoo", name="Kooddoo"}
+{country="United States", altitude=2762, code="", city="Glasgow", name="Glasgow Industrial"}
+{country="United Kingdom", altitude=426, code="RCS", city="Rochester", name="Rochester Airport"}
+{country="Netherlands", altitude=0, code="", city="Den Haag", name="Den Haag Centraal"}
+{country="France", altitude=0, code="", city="Paris", name="Paris Nord"}
+{country="Netherlands", altitude=0, code="", city="Venlo", name="Venlo railway station"}
+{country="Germany", altitude=0, code="", city="Monchengladbach", name="Monchengladbach Central Station"}
+{country="Netherlands", altitude=0, code="", city="Utrecht ", name="Utrecht Centraal"}
+{country="United States", altitude=324, code="", city="Albany", name="Rensselaer Rail Station"}
+{country="United States", altitude=50, code="", city="Tacoma", name="Amtrak Station"}
+{country="United States", altitude=82, code="", city="Orlando", name="Amtrak Station"}
+{country="United States", altitude=1730, code="", city="Healy", name="Denali Rail"}
+{country="Canada", altitude=1048, code="JHL", city="Wood Buffalo", name="Albian Aerodrome"}
+{country="United States", altitude=679, code="EQY", city="Charlotte", name="Monroe Reqional Airport"}
+{country="Sweden", altitude=1240, code="", city="Aare", name="Station Aare"}
+{country="Austria", altitude=1644, code="", city="Villach", name="Villach Hauptbahnhof"}
+{country="Poland", altitude=719, code="", city="Krakow", name="Krakow Glowny"}
+{country="Austria", altitude=738, code="", city="Vienna", name="Wien Meidling"}
+{country="Italy", altitude=197, code="", city="Rome", name="Roma Termini"}
+{country="Italy", altitude=39, code="", city="Naples", name="Napoli Centrale"}
+{country="United Kingdom", altitude=89, code="", city="London", name="Euston Station"}
+{country="Guinea", altitude=8694, code="KNN", city="Kankan", name="Kankan"}
+{country="Argentina", altitude=1181, code="RHD", city="Rio Hondo", name="Termal"}
+{country="China", altitude=19, code="", city="Guangzhou", name="Guangzhou Railway Station"}
+{country="China", altitude=3, code="", city="Shenzhen", name="Shenzhen West Railway Station"}
+{country="China", altitude=229, code="", city="Shenzhen", name="Shenzhen North Railway Station"}
+{country="Namibia", altitude=3506, code="KMP", city="Keetmanshoop", name="Keetmanshoop"}
+{country="China", altitude=2, code="", city="Shenzhen", name="Shekou Ferry Terminal"}
+{country="China", altitude=2, code="", city="Zhuhai", name="Zhuhai-Jiuzhou Port"}
+{country="China", altitude=14042, code="KGT", city="Kangding", name="Kangding Airport"}
+{country="Thailand", altitude=150, code="", city="Aranyaprathet", name="Train Station"}
+{country="Vietnam", altitude=50, code="", city="Nha Trang", name="Train Station"}
+{country="Russia", altitude=331, code="VUS", city="Veliky Ustyug", name="Veliky Ustyug"}
+{country="United States", altitude=668, code="IOW", city="Iowa City", name="Iowa City Municipal Airport"}
+{country="China", altitude=20, code="TLQ", city="Turpan", name="Turpan"}
+{country="Brazil", altitude=3, code="", city="Morro de Sao Paulo", name="Lorenzo"}
+{country="United States", altitude=1410, code="MWM", city="Windom", name="Windom Municipal Airport"}
+{country="Tanzania", altitude=4000, code="", city="Sasakwa", name="Sasakwa Airstrip"}
+{country="China", altitude=1200, code="", city="Yabuli Town", name="Yabuli"}
+{country="United States", altitude=2080, code="", city="Longview", name="Longview Ranch Airport"}
+{country="United Kingdom", altitude=200, code="", city="Rothera Research Station", name="Rothera Research Station"}
+{country="Russia", altitude=14, code="", city="Sortavala", name="Sortavala"}
+{country="Russia", altitude=15, code="", city="Valaam", name="Valaam"}
+{country="United States", altitude=34, code="ANP", city="Annapolis", name="Lee Airport"}
+{country="Taiwan", altitude=0, code="", city="Taipei", name="Songshan Train Station"}
+{country="Taiwan", altitude=39, code="", city="Kaohsiung", name="Kaohsiung Station"}
+{country="Taiwan", altitude=45, code="", city="Hualien", name="Hualien Station"}
+{country="Algeria", altitude=0, code="", city="El Merk", name="El Merk"}
+{country="Hungary", altitude=0, code="", city="Budapest", name="Budapest Keleti pu."}
+{country="Slovakia", altitude=430, code="", city="Bratislava", name="Bratislava hl. st."}
+{country="Tanzania", altitude=5400, code="DUU", city="Ndutu", name="Ndutu"}
+{country="Mozambique", altitude=1931, code="FXO", city="Cuamba", name="Cuamba"}
+{country="Russia", altitude=940, code="ODO", city="Bodaibo", name="Bodaibo"}
+{country="Chad", altitude=2953, code="", city="Berdoba", name="Berdoba Airport"}
+{country="Ukraine", altitude=0, code="ZTR", city="Zhytomyr", name="Zhytomyr"}
+{country="Belarus", altitude=0, code="", city="Mozyr", name="Mozyr"}
+{country="Lithuania", altitude=0, code="", city="Paluknys", name="Paluknys"}
+{country="Sri Lanka", altitude=157, code="HRI", city="Mattala", name="Mattala Rajapaksa Intl."}
+{country="United States", altitude=2613, code="PEQ", city="Pecos", name="Pecos Municipal Airport"}
+{country="United States", altitude=151, code="HBG", city="Hattiesburg", name="Hattiesburg Bobby L. Chain Municipal Airport"}
+{country="Brazil", altitude=3012, code="QCJ", city="Botucatu", name="Botucatu"}
+{country="Brazil", altitude=3731, code="", city="Anapolis", name="Anapolis Military Airbase"}
+{country="Brazil", altitude=2649, code="QSC", city="Sao Carlos", name="Sao Carlos TAM"}
+{country="Australia", altitude=10, code="", city="Byron Bay", name="Byron Airport"}
+{country="Switzerland", altitude=6000, code="", city="Grindelwald", name="Grindelwald"}
+{country="Switzerland", altitude=6000, code="", city="Grindelwald", name="Grindelwald"}
+{country="United States", altitude=1200, code="YKN", city="Yankton", name="Chan Gurney"}
+{country="United States", altitude=131, code="SES", city="Selma Alabama", name="Selfield Airport"}
+{country="Zimbabwe", altitude=3543, code="", city="Hwange National Park", name="Linkwasha Airfield"}
+{country="United Arab Emirates", altitude=5, code="XSB", city="Sir Bani Yas Island", name="Sir Bani Yas Island"}
+{country="United Arab Emirates", altitude=8, code="ZDY", city="Dalma Island", name="Dalma Airport"}
+{country="Mexico", altitude=1, code="PCM", city="Playa del Carmen", name="Playa del Carmen Airport"}
+{country="United Kingdom", altitude=80, code="", city="Beccles", name="Ellough"}
+{country="Cambodia", altitude=3610, code="KTI", city="Kratie", name="Kratie Airport"}
+{country="Chile", altitude=180, code="", city="Caldera", name="Caldera Airport"}
+{country="Chile", altitude=7959, code="", city="San Pedro de Atacama", name="San Pedro de Atacama Airport"}
+{country="Bolivia", altitude=12591, code="", city="Copacabana", name="Copacabana Airport"}
+{country="India", altitude=0, code="", city="Havelock Island", name="Havelock Island Seaport"}
+{country="China", altitude=5577, code="GYU", city="Guyuan", name="Guyuan"}
+{country="United Kingdom", altitude=355, code="", city="Brawdy", name="Brawdy RAF Airport"}
+{country="Greece", altitude=0, code="", city="Paxi", name="Gaios Bay"}
+{country="China", altitude=1, code="CNI", city="Changhai", name="Changhai"}
+{country="United Kingdom", altitude=221, code="KRH", city="Redhill", name="Redhill Aerodrome"}
+{country="Austria", altitude=3287, code="", city="Bad Gastein", name="Bahnhof"}
+{country="Italy", altitude=1000, code="", city="Maratea", name="Acquafredda Station"}
+{country="United Kingdom", altitude=48, code="", city="London", name="Victoria Station"}
+{country="China", altitude=1205, code="JGD", city="Jiagedaqi District", name="Jiagedaqi Airport"}
+{country="Australia", altitude=1030, code="CCL", city="Chinchilla", name="Chinchilla"}
+{country="United States", altitude=152, code="1C9", city="Hollister", name="Frazier Lake Airpark"}
+{country="United States", altitude=52, code="HWD", city="Hayward", name="Hayward Executive Airport"}
+{country="New Zealand", altitude=39, code="MZP", city="Motueka", name="Motueka"}
+{country="Australia", altitude=12, code="JHQ", city="Shute Harbour", name="Shute Harbour"}
+{country="United Kingdom", altitude=550, code="", city="Enstone", name="Enstone"}
+{country="Italy", altitude=13, code="", city="Portoferrario", name="Portoferrario Cruise Terminal"}
+{country="United States", altitude=1370, code="", city="Pittsburgh", name="Pittsburgh Amtrak"}
+{country="United States", altitude=8800, code="", city="Raton", name="Raton Amtrak"}
+{country="United States", altitude=839, code="ARB", city="Ann Arbor", name="Ann Arbor Municipal Airport"}
+{country="Norway", altitude=2844, code="", city="Myrdal", name="Myrdal Station"}
+{country="Norway", altitude=6, code="", city="Flam", name="Flam Station"}
+{country="Norway", altitude=6, code="", city="Leikanger", name="Leikanger Terminal"}
+{country="United Kingdom", altitude=0, code="", city="Gryphon FPSO", name="North Sea"}
+{country="Australia", altitude=374, code="SHT", city="Shepparton", name="Shepparton"}
+{country="Australia", altitude=921, code="TEM", city="Temora", name="Temora"}
+{country="Australia", altitude=369, code="GAH", city="Gayndah", name="Gayndah"}
+{country="Papua New Guinea", altitude=311, code="EIA", city="Popondetta", name="Popondetta"}
+{country="Australia", altitude=250, code="WIO", city="Wilcannia", name="Wilcannia"}
+{country="Australia", altitude=250, code="", city="Bollards Lagoon Station", name="Bollards Lagoon"}
+{country="Australia", altitude=200, code="", city="Delamere Range", name="Delamere Range"}
+{country="Australia", altitude=331, code="", city="Ivanhoe", name="Ivanhoe"}
+{country="Australia", altitude=164, code="", city="Menindee", name="Menindee"}
+{country="Papua New Guinea", altitude=900, code="", city="Naduri", name="Naduri"}
+{country="Australia", altitude=184, code="", city="Pooncarie", name="Pooncarie"}
+{country="Australia", altitude=180, code="", city="Wiawera station", name="Wiawera Station"}
+{country="Australia", altitude=280, code="", city="Tilpa", name="Tilpa"}
+{country="Australia", altitude=180, code="", city="Yarramba Station", name="Yarramba Station"}
+{country="Switzerland", altitude=2300, code="", city="Reichenbach im Kandertal", name="Reichenbach"}
+{country="Japan", altitude=2200, code="", city="Takayama", name="Takayama Station"}
+{country="Japan", altitude=141, code="", city="Himeji", name="Himeji Station"}
+{country="Japan", altitude=6, code="", city="Miyajimaguchi", name="Miyajimaguchi Station"}
+{country="Japan", altitude=0, code="", city="Miyajima", name="Miyajima Port"}
+{country="Antarctica", altitude=0, code="", city="Brown Bluff", name="Brown Bluff Port"}
+{country="Antarctica", altitude=0, code="", city="Devil Island", name="Devil Island Port"}
+{country="Antarctica", altitude=0, code="", city="Gourdin Island", name="Gourdin Island Port"}
+{country="Antarctica", altitude=0, code="", city="Cuverville Island", name="Cuverville Island Port"}
+{country="Antarctica", altitude=0, code="", city="Neko Harbor", name="Neko Harbor"}
+{country="Antarctica", altitude=0, code="", city="Port Lockroy", name="Port Lockroy"}
+{country="Antarctica", altitude=0, code="", city="Walker Bay", name="Walker Bay"}
+{country="Antarctica", altitude=0, code="", city="Deception Island", name="Whalers Bay"}
+{country="Haiti", altitude=0, code="", city="Labadee", name="Labadee Port"}
+{country="Nigeria", altitude=0, code="", city="Lekki", name="Lagos Lagoon"}
+{country="Nigeria", altitude=0, code="", city="Escravos", name="Escravos"}
+{country="Russia", altitude=577, code="", city="Volosovo", name="Volosovo"}
+{country="China", altitude=5250, code="BFJ", city="Bijie", name="Bijie Feixiong Airport"}
+{country="Russia", altitude=843, code="ULK", city="Lensk", name="Lensk"}
+{country="United States", altitude=446, code="", city="Fairbanks", name="Fairbanks Train Depot"}
+{country="United States", altitude=3733, code="", city="Denali", name="Denali Train Depot"}
+{country="United States", altitude=348, code="", city="Talkeetna", name="Talkeetna Train Depot"}
+{country="United States", altitude=102, code="", city="Anchorage", name="Anchorage Rail Depot"}
+{country="United States", altitude=0, code="", city="Whittier", name="Whittier Port"}
+{country="China", altitude=45, code="", city="Qingdao", name="Qingdao Railway Station"}
+{country="China", altitude=144, code="", city="Beijing", name="Beijing South Railway Station"}
+{country="China", altitude=16, code="", city="Shanghai", name="Shanghai Railway Station"}
+{country="China", altitude=9, code="", city="Suzhou", name="Suzhou Railway Station"}
+{country="Russia", altitude=3000, code="", city="Khamar-Daban", name="Biluty"}
+{country="Russia", altitude=3600, code="", city="Khamar-Daban", name="Shumak"}
+{country="Russia", altitude=3300, code="", city="Khamar-Daban", name="Shumak"}
+{country="Russia", altitude=2000, code="", city="Khamar-Daban", name="Kitoi"}
+{country="Russia", altitude=2000, code="", city="Khamar-Daban", name="Kitoi"}
+{country="Russia", altitude=1500, code="", city="Baikal", name="Angasolka"}
+{country="Russia", altitude=660, code="", city="Kavalerovo", name="Kavalerovo"}
+{country="Turkey", altitude=3100, code="IGD", city="Igdir", name="Igdir"}
+{country="Turkey", altitude=2700, code="GNY", city="Sanliurfa", name="Sanliurfa GAP"}
+{country="Turkey", altitude=3327, code="KZR", city="Kutahya", name="Zafer"}
+{country="Svalbard", altitude=20, code="", city="Barentsburg", name="Barentsburg"}
+{country="Svalbard", altitude=20, code="", city="Piramida", name="Piramida"}
+{country="Russia", altitude=328, code="VLU", city="Velikiye Luki", name="Velikiye Luki"}
+{country="United States", altitude=20, code="ZTY", city="Boston", name="Boston Back Bay Station"}
+{country="Canada", altitude=243, code="", city="Burlington", name="Burlington GO Station"}
+{country="Canada", altitude=521, code="", city="Niagra Falls", name="Niagra Falls Railway Station"}
+{country="United States", altitude=0, code="", city="Niagara Falls", name="Niagara Falls Station"}
+{country="India", altitude=2912, code="YLK", city="Bangalore", name="Yelahanka AFB"}
+{country="Russia", altitude=617, code="", city="Novosibirsk", name="Yeltsovka"}
+{country="Maldives", altitude=0, code="", city="Veligandu", name="Veligandu Resort"}
+{country="Maldives", altitude=0, code="", city="Kuramathi", name="Kuramathi"}
+{country="Kenya", altitude=4997, code="", city="Masai Mara", name="Olkiombo Airstrip"}
+{country="China", altitude=13, code="", city="Shanghai", name="Shanghai South Railway Station"}
+{country="China", altitude=6, code="", city="Suzhou", name="Suzhou North Railway Station"}
+{country="Micronesia", altitude=10, code="ULI", city="Ulithi", name="Ulithi"}
+{country="Russia", altitude=200, code="", city="Mar-Kuel", name="Mar-Kuel"}
+{country="Russia", altitude=200, code="", city="Kodinsk", name="Kodinsk"}
+{country="China", altitude=29, code="", city="Nanjing", name="Nanjing Railway Station"}
+{country="Turkmenistan", altitude=7, code="BKN", city="Balkanabat", name="Balkanabat"}
+{country="Australia", altitude=5, code="BEO", city="Lake Macquarie", name="Belmont Airport"}
+{country="United States", altitude=874, code="4A7", city="Hampton", name="Clayton County Tara Field"}
+{country="United States", altitude=5333, code="", city="Denver", name="Stapleton International Airport"}
+{country="Australia", altitude=5, code="BMP", city="Brampton Island", name="Brampton Island"}
+{country="China", altitude=16, code="", city="Shanghai", name="Shanghai Maglev Long Yang Road Station"}
+{country="Germany", altitude=990, code="", city="Nuernberg", name="Nuernberg Port"}
+{country="United States", altitude=10, code="NGZ", city="Alameda", name="NAS Alameda"}
+{country="Germany", altitude=984, code="", city="Stein", name="Stein"}
+{country="Germany", altitude=1400, code="", city="Dippenricht", name="Dippenricht Heliport"}
+{country="Canada", altitude=0, code="", city="Lagoon Cove", name="Lagoon Cove water aerodrome"}
+{country="Denmark", altitude=0, code="", city="Endelage", name="Endelage West"}
+{country="Austria", altitude=2198, code="", city="St. Johann in Tirol", name="Flugplatz St. Johann in Tirol"}
+{country="Canada", altitude=0, code="", city="Echo Bay", name="Echo Bay water aerodrome"}
+{country="Canada", altitude=0, code="", city="Kingcome", name="Kingcome water aerodrome"}
+{country="Germany", altitude=1893, code="", city="Thalmaessing", name="Thalmaessing Waizenhofen"}
+{country="Russia", altitude=183, code="", city="Taganrog", name="Tcentralny"}
+{country="United States", altitude=600, code="", city="Buffalo", name="Buffalo Exchange Street Station"}
+{country="United States", altitude=0, code="ZWI", city="Wilmington", name="Wilmington Amtrak Station"}
+{country="Maldives", altitude=5, code="", city="Viceroy Resort", name="Vagaru Island"}
+{country="Canada", altitude=1046, code="NML", city="Fort McMurray", name="Fort McMurray - Mildred Lake Airport"}
+{country="Italy", altitude=0, code="", city="Genova", name="Genoa Cruise Terminal"}
+{country="China", altitude=7, code="", city="Suzhou", name="Suzhou Industrial Park Railway Station"}
+{country="United States", altitude=778, code="EKI", city="Elkhart", name="Elkhart Municipal"}
+{country="Canada", altitude=852, code="YCN", city="Cochrane", name="Cochrane"}
+{country="Brazil", altitude=3, code="BJP", city="Braganca Paulista", name="Aeroporto Estadual Arthur Siqueira"}
+{country="Australia", altitude=55, code="BQB", city="Brusselton", name="Brusselton"}
+{country="Russia", altitude=98, code="", city="Srednekolymsk", name="Srednekolymsk"}
+{country="Somalia", altitude=553, code="GGR", city="Garowe", name="Garowe - International"}
+{country="United States", altitude=0, code="", city="Salt Lake City", name="Salt Lake City Intermodal Hub"}
+{country="South Africa", altitude=1900, code="", city="Hoedspruit", name="Thorny Bush Game Lodge Airport"}
+{country="Australia", altitude=2667, code="IVR", city="Inverell", name="Inverell"}
+{country="Australia", altitude=3433, code="GLI", city="Glen Innes", name="Glen Innes"}
+{country="China", altitude=39, code="", city="Hangzhou", name="Hangzhou Railway Station"}
+{country="United States", altitude=150, code="", city="San Diego", name="Sorrento Valley Station"}
+{country="United States", altitude=50, code="", city="San Diego", name="San Diego Union Station"}
+{country="Germany", altitude=1370, code="", city="Ansbach", name="Petersdorf"}
+{country="Italy", altitude=0, code="", city="Venice", name="Venice-Venezia Mestre"}
+{country="United States", altitude=37, code="IMM", city="Immokalee ", name="Immokalee "}
+{country="Indonesia", altitude=169, code="", city="Sulawesi Tenggara", name="Maranggo"}
+{country="United States", altitude=320, code="", city="Cambria", name="Rancho San Simeon Airport"}
+{country="United States", altitude=0, code="", city="Brevard County", name="Port Canaveral"}
+{country="Bahamas", altitude=0, code="", city="Ragged Island", name="Cococay"}
+{country="China", altitude=131, code="YIC", city="Yichun", name="Yichun Mingyueshan Airport"}
+{country="Mexico", altitude=0, code="", city="Costa maya", name="Costa maya port"}
+{country="Mexico", altitude=0, code="", city="Costa maya", name="Costa maya port"}
+{country="Puerto Rico", altitude=0, code="", city="Fajardo", name="Fajardo"}
+{country="Canada", altitude=650, code="", city="Essex", name="Billings field"}
+{country="Mexico", altitude=0, code="", city="Cuidad del Carmen", name="Hiberico Offshore Platform"}
+{country="Ireland", altitude=0, code="", city="Cork", name="Alpha offshore platform"}
+{country="Russia", altitude=0, code="", city="Saint-Petersburg", name="Peterhof Helicopter Landing area"}
+{country="Russia", altitude=0, code="", city="Gogland Island", name="Gogland Helicopter Landing"}
+{country="United States", altitude=39, code="ZRZ", city="New Carrollton", name="New Carrollton Rail Station"}
+{country="Bahamas", altitude=0, code="", city="Ship Channel Cay", name="Ship Channel Cay"}
+{country="United States", altitude=308, code="", city="Walkersville", name="Walkersville Train Depot"}
+{country="United States", altitude=7, code="", city="Seattle", name="Seattle Pier 69 - Victoria Clipper"}
+{country="United States", altitude=193, code="PTB", city="Petersburg", name="Dinwiddie County Airport"}
+{country="Japan", altitude=1350, code="", city="Aso", name="Mount Aso helipad"}
+{country="Japan", altitude=1350, code="", city="Aso", name="Mount Aso helipad"}
+{country="Congo (Kinshasa)", altitude=0, code="KGN", city="Kasongo", name="Kasongo Lunda"}
+{country="Antarctica", altitude=18, code="", city="McMurdo Station", name="McMurdo Station Pegasus Field"}
+{country="Czech Republic", altitude=1299, code="", city="Klatovy", name="Klatovy"}
+{country="United States", altitude=755, code="SBM", city="Sheboygan", name="Sheboygan County Memorial Airport"}
+{country="Australia", altitude=1555, code="KFE", city="Cloudbreak", name="Dave Forest Airport"}
+{country="United States", altitude=773, code="3D2", city="Ephraim", name="Ephraim-Gibraltar Airport"}
+{country="Nepal", altitude=6880, code="", city="Kangel Danda", name="Kangel Danda Airport"}
+{country="Nepal", altitude=4435, code="", city="Khanidanda", name="Man Maya Airport"}
+{country="Nepal", altitude=0, code="", city="Rara National Park", name="Talcha Airport"}
+{country="Nepal", altitude=4606, code="BJU", city="Bajura", name="Bajura Airport"}
+{country="United States", altitude=302, code="", city="Frederick", name="Walkersville Turnaround"}
+{country="Russia", altitude=671, code="", city="Chara", name="Airport Chara"}
+{country="Vietnam", altitude=0, code="THD", city="Thanh Hoa", name="Tho Xuan Airport"}
+{country="Denmark", altitude=136, code="", city="Herning", name="Herning"}
+{country="Germany", altitude=1594, code="", city="Schleissheim", name="Sonderlandeplatz Schleissheim"}
+{country="United States", altitude=1893, code="MZJ", city="Marana", name="Pinal Airpark"}
+{country="United States", altitude=1071, code="GEU", city="Glendale", name="Glendale Municipal Airport"}
+{country="United States", altitude=3179, code="SAD", city="Safford", name="Safford Regional Airport"}
+{country="Germany", altitude=144, code="", city="Verden", name="Verden Scharnhorst"}
+{country="Kenya", altitude=5468, code="", city="Masai Mara", name="Mara North"}
+{country="United States", altitude=9, code="", city="Dania Beach", name="Fort Lauderdale-Hollywood International Airport Station at Dania Beach"}
+{country="United States", altitude=13, code="", city="Deerfield Beach", name="Deerfield Beach Station"}
+{country="Greece", altitude=60, code="", city="Korinthos", name="Lecheo"}
+{country="Australia", altitude=2008, code="SLJ", city="Solomon", name="Solomon Airport"}
+{country="Germany", altitude=1161, code="", city="Nittenau", name="Bruck-Nittenau"}
+{country="Japan", altitude=156, code="KJP", city="Kerama", name="Kerama Airport"}
+{country="Brazil", altitude=2085, code="", city="Americana", name="Americana"}
+{country="Belgium", altitude=43, code="", city="Brussels", name="Brussels Gare Centrale"}
+{country="Malta", altitude=201, code="JCO", city="Comino", name="Comino Airport"}
+{country="Italy", altitude=1, code="", city="Udine", name="Udine stazione"}
+{country="Slovakia", altitude=1, code="", city="Bratislava", name="Bratislava Hlavna Stanica"}
+{country="Indonesia", altitude=2000, code="", city="Sungai Penuh", name="Depati Parbo Airport"}
+{country="Russia", altitude=100, code="", city="Kolosovka", name="Kolosovka"}
+{country="Kazakhstan", altitude=776, code="", city="Ekibastuz", name="Ekibastuz airport"}
+{country="Russia", altitude=432, code="", city="Znamenskoe", name="Znamenka airport"}
+{country="Russia", altitude=456, code="", city="Tevriz", name="Tevriz airport"}
+{country="Kazakhstan", altitude=645, code="", city="Bestobe", name="Besobe airport"}
+{country="Kazakhstan", altitude=432, code="", city="Stepnogorsk", name="Stepnogorsk airport"}
+{country="Turkmenistan", altitude=12, code="", city="Karabogaz", name="Bekdash airport"}
+{country="Russia", altitude=931, code="", city="Adamovka", name="Adamovka"}
+{country="Russia", altitude=305, code="", city="Kvarkeno", name="Kvarkeno"}
+{country="United States", altitude=315, code="SIK", city="Sikeston", name="Sikeston Memorial Municipal"}
+{country="Sweden", altitude=0, code="NYN", city="Nynashamn", name="Nynashamn Ferry Port"}
+{country="Denmark", altitude=0, code="ROD", city="Rodby", name="Rodby Port"}
+{country="Germany", altitude=0, code="QUA", city="Puttgarden", name="Puttgarden"}
+{country="Maldives", altitude=0, code="", city="Sonevafushi", name="Sonevafushi"}
+{country="Maldives", altitude=0, code="", city="Royal Island Resort", name="Royal Island Resort"}
+{country="Maldives", altitude=0, code="", city="Royal Island Resort", name="Royal Island Resort"}
+{country="United Kingdom", altitude=0, code="BE2", city="Belfast", name="Port of Belfast"}
+{country="United Kingdom", altitude=0, code="SR2", city="Stranraer", name="Stranraer Ferry Port"}
+{country="United States", altitude=14, code="L52", city="Oceano", name="Oceano County Airport"}
+{country="Belgium", altitude=1000, code="", city="Eupen", name="Eupen - Rail"}
+{country="French Polynesia", altitude=0, code="TTI", city="Tetiaroa", name="Tetiaroa Airport"}
+{country="Germany", altitude=207, code="", city="Osnabrueck", name="Osnabrueck Hbf"}
+{country="Germany", altitude=180, code="", city="Hannover", name="Hannover Hbf"}
+{country="United States", altitude=328, code="GFL", city="Queensbury", name="Floyd Bennett Memorial Airport"}
+{country="United States", altitude=433, code="5B2", city="Ballston Spa", name="Saratoga County Airport"}
+{country="United States", altitude=195, code="K27", city="Mechanicville", name="Burrello-Mechanicville Airport"}
+{country="Indonesia", altitude=2, code="MJU", city="Mamuju", name="Tampa Padang"}
+{country="United States", altitude=9, code="CGC", city="Crystal River", name="Crystal River"}
+{country="United States", altitude=22, code="MTN", city="Baltimore", name="Martin State"}
+{country="United States", altitude=121, code="LHM", city="Lincoln", name="Lincoln Regional Airport Karl Harder Field"}
+{country="United States", altitude=752, code="FZI", city="Fostoria", name="Fostoria Metropolitan Airport"}
+{country="United States", altitude=455, code="IZG", city="Fryeburg", name="Eastern Slopes Regional"}
+{country="United States", altitude=8, code="", city="Placida", name="Coral Creek"}
+{country="United States", altitude=7, code="NEW", city="New Orleans", name="Lakefront"}
+{country="United States", altitude=2320, code="COE", city="Coeur d'Alene", name="Pappy Boyington"}
+{country="United States", altitude=32, code="BMT", city="Beaumont", name="Beaumont Municipal"}
+{country="United States", altitude=696, code="DNV", city="Danville", name="Vermilion Regional"}
+{country="Sweden", altitude=0, code="", city="Varberg", name="Varberg Railway Station"}
+{country="Australia", altitude=2117, code="COJ", city="Coonabarabran", name="Coonabarabran"}
+{country="Canada", altitude=249, code="", city="Toronto", name="Toronto Union Station"}
+{country="Canada", altitude=623, code="", city="Windsor", name="Windsor Station"}
+{country="United States", altitude=591, code="", city="Dearborn", name="Dearborn Amtrak Station"}
+{country="United States", altitude=6, code="COI", city="Cocoa", name="Merritt Island Airport"}
+{country="United States", altitude=26, code="X59", city="Valkaria", name="Valkaria Municipal"}
+{country="United States", altitude=34, code="TIX", city="Titusville", name="Space Coast Reg'l Airport"}
+{country="United States", altitude=21, code="X26", city="Sebastian", name="Sebastian Municipal"}
+{country="Namibia", altitude=0, code="TCY", city="Terrace Bay", name="Terrace Bay"}
+{country="Botswana", altitude=3100, code="", city="Nxabega", name="Nxabega Airstrip"}
+{country="Sri Lanka", altitude=28, code="KEZ", city="Colombo", name="Kelani River-Peliyagoda Waterdrome"}
+{country="Sri Lanka", altitude=1472, code="KDZ", city="Kandy", name="Polgolla Reservoir"}
+{country="Zimbabwe", altitude=1633, code="", city="Bumi Hills", name="Bumi"}
+{country="Portugal", altitude=0, code="", city="Lagos", name="Priv"}
+{country="Australia", altitude=25, code="", city="Warnervale Airport", name="Warnervale Airport"}
+{country="Haiti", altitude=0, code="", city="Hati", name="Boat"}
+{country="Haiti", altitude=0, code="", city="Hati", name="Boat"}
+{country="Haiti", altitude=50, code="", city="Hati", name="Cartitas"}
+{country="Haiti", altitude=0, code="", city="Hati", name="Boat"}
+{country="Haiti", altitude=50, code="", city="Port Au Prince", name="Hospital"}
+{country="Haiti", altitude=30, code="", city="Saint Marc", name="Clinic"}
+{country="Haiti", altitude=2639, code="", city="Dodard", name="Village"}
+{country="Morocco", altitude=3564, code="", city="Bouarfa", name="Bouarfa International"}
+{country="China", altitude=167, code="", city="Beijing", name="Beijing West Railway Station"}
+{country="Hong Kong", altitude=39, code="", city="Hong Kong", name="Hung Hom Railway Station"}
+{country="Kenya", altitude=5830, code="NYE", city="NYERI", name="NYERI"}
+{country="Maldives", altitude=2, code="", city="Alifu Dhaalu Atoll", name="Angaga Seaplane Dock"}
+{country="Maldives", altitude=2, code="", city="Alifu Atoll", name="Madoogali Seaplane Dock"}
+{country="United States", altitude=585, code="1H2", city="Effingham", name="Effingham Memorial Airport"}
+{country="United Kingdom", altitude=500, code="", city="Stoke-on-Trent", name="Stoke"}
+{country="Canada", altitude=1335, code="", city="Tobermory", name="Tobermory Dock"}
+{country="Canada", altitude=1335, code="", city="South Baymouth", name="South Baymouth Docks"}
+{country="United States", altitude=80, code="AAP", city="Houston", name="Andrau Airport"}
+{country="United States", altitude=906, code="FCM", city="Eden Prairie", name="Flying Cloud Airport"}
+{country="Malawi", altitude=1600, code="LIX", city="Likoma Island", name="Likoma Island Airport"}
+{country="United States", altitude=1096, code="OJC", city="Olathe", name="Johnson County Airport"}
+{country="Sri Lanka", altitude=630, code="GIU", city="Sigiriya", name="Sigiriya Airport"}
+{country="Austria", altitude=600, code="XWW", city="Vienna", name="Westbahnhoff"}
+{country="Canada", altitude=449, code="", city="York Mills", name="York Mills GO Bus Terminal"}
+{country="Germany", altitude=69, code="EUM", city="Neumuenster", name="Neumuenster"}
+{country="Thailand", altitude=478, code="TKT", city="Tak", name="Tak"}
+{country="United States", altitude=354, code="", city="Marshall", name="Marshall Aiport"}
+{country="Maldives", altitude=0, code="", city="Meedhuffushi Island", name="Meedhuffushi Seaplane dock"}
+{country="Canada", altitude=972, code="YLS", city="Barrie-Orillia", name="Lake Simcoe"}
+{country="Canada", altitude=773, code="YEE", city="Midland", name="Huronia"}
+{country="Canada", altitude=807, code="NU8", city="Markham", name="Markham"}
+{country="Canada", altitude=1066, code="ND4", city="Haliburton", name="Stanhope"}
+{country="Canada", altitude=895, code="NF4", city="Lindsay", name="Lindsay"}
+{country="Canada", altitude=321, code="YCM", city="Saint Catherines", name="Niagara District"}
+{country="United States", altitude=143, code="X04", city="Orlando", name="Apopka"}
+{country="Canada", altitude=718, code="", city="Edenvale", name="Edenvale"}
+{country="Canada", altitude=725, code="", city="Orillia", name="Orillia"}
+{country="Canada", altitude=855, code="", city="Holland Landing", name="Holland Landing"}
+{country="Canada", altitude=645, code="XCM", city="Chatham", name="Kent"}
+{country="Canada", altitude=830, code="YPD", city="Parry Sound", name="Parry Sound"}
+{country="Canada", altitude=940, code="", city="Hanover", name="Saugeen"}
+{country="United States", altitude=466, code="OQN", city="West Goshen Township", name="Brandywine Airport"}
+{country="Zambia", altitude=3235, code="", city="Livingston", name="Batoka"}
+{country="United States", altitude=192, code="MNZ", city="Manassas", name="Manassas"}
+{country="United States", altitude=25, code="", city="Angleton", name="Texas Gulf Coast Regional"}
+{country="Czech Republic", altitude=1385, code="", city="Bubovice", name="Bubovice"}
+{country="China", altitude=67, code="", city="Shenzhen", name="Shenzhen Railway Station"}
+{country="Norway", altitude=381, code="", city="Rakkestad", name="Rakkestad Flyplass"}
+{country="United States", altitude=1142, code="", city="Johnstown", name="Johnstown Amtrak"}
+{country="United States", altitude=22, code="", city="Snohomish WA", name="Harvey Field S43"}
+{country="Turkey", altitude=4000, code="", city="Urgup", name="Urgup"}
+{country="Ethiopia", altitude=630, code="", city="Dolo Ado", name="Dolo Ado"}
+{country="French Guiana", altitude=0, code="", city="Yaou", name="AYaou"}
+{country="French Guiana", altitude=0, code="", city="Camopi", name="Camop"}
+{country="French Guiana", altitude=0, code="", city="Croisee d Apatou", name="CApat"}
+{country="French Guiana", altitude=0, code="", city="Citron", name="Citro"}
+{country="French Guiana", altitude=0, code="", city="Dieu Merci", name="DieuM"}
+{country="French Guiana", altitude=0, code="", city="Dorlin", name="Dorli"}
+{country="French Guiana", altitude=0, code="", city="Elysee", name="Elyse"}
+{country="France", altitude=0, code="", city="Morsbach", name="Herap"}
+{country="French Guiana", altitude=0, code="", city="Saint Elie", name="OSMSE"}
+{country="French Guiana", altitude=0, code="", city="Remire", name="Prevo"}
+{country="Turkey", altitude=100, code="", city="Istanbul", name="Sisli Belediyesi Evlendirme Dairesi Heliport"}
+{country="Turkey", altitude=100, code="", city="Istanbul", name="Kadikoy Ispark Heliport"}
+{country="Turkey", altitude=3490, code="BGG", city="Bingol", name="Bingol"}
+{country="Turkey", altitude=3520, code="KFS", city="Kastamonu", name="Uzunyazi"}
+{country="Botswana", altitude=3100, code="", city="Okawango", name="Okawango Lodge"}
+{country="Hong Kong", altitude=50, code="", city="Hong Kong", name="Kai Tak"}
+{country="United Kingdom", altitude=250, code="", city="Elstree", name="Elstree"}
+{country="United Kingdom", altitude=11, code="", city="Sandtoft", name="Sandtoft Airfield"}
+{country="United Kingdom", altitude=550, code="", city="Hurtsbourne Tarrant", name="Bourne Park"}
+{country="United States", altitude=3840, code="UT3", city="Hanksville", name="Hite Airport"}
+{country="France", altitude=0, code="", city="Dieppe", name="Dieppe Ferry Port"}
+{country="United Kingdom", altitude=0, code="", city="Newhaven", name="Newhaven Ferry Port"}
+{country="Peru", altitude=9160, code="", city="Ollantaytambo", name="Ollantaytambo Train Station"}
+{country="Peru", altitude=6693, code="", city="Aguas Calientes", name="Aguas Calientes Train Station"}
+{country="Peru", altitude=11710, code="", city="Cusco", name="Poroy Train Station"}
+{country="United Kingdom", altitude=0, code="", city="Aberdeen", name="Aberdeen Harbour"}
+{country="United Kingdom", altitude=0, code="", city="Lerwick", name="Lerwick Harbour"}
+{country="Faroe Islands", altitude=0, code="", city="Torshavn", name="Torshavn Harbour"}
+{country="Iceland", altitude=0, code="", city="Seydisfjordur", name="Seydisfjordur"}
+{country="United Kingdom", altitude=50, code="GLQ", city="Glasgow", name="Queen Street Station"}
+{country="South Sudan", altitude=2018, code="", city="Torit", name="Torit"}
+{country="Jamaica", altitude=0, code="", city="Falmouth", name="Falmouth Port"}
+{country="Mexico", altitude=0, code="", city="Cozumel", name="Cozumel Port"}
+{country="Netherlands Antilles", altitude=0, code="", city="Philipsburg", name="Philipsburg Port"}
+{country="Saint Kitts and Nevis", altitude=0, code="", city="Basseterre", name="Basseterre Port"}
+{country="Virgin Islands", altitude=0, code="", city="Charlotte Amalie", name="Charlotte Amalie Port"}
+{country="Puerto Rico", altitude=0, code="", city="San Juan", name="San Juan Port"}
+{country="United States", altitude=8, code="", city="Santa Barbara", name="Santa Barbara Train Station"}
+{country="United States", altitude=426, code="", city="Eugene", name="Eugene Amtrak Station"}
+{country="Canada", altitude=873, code="", city="Lincolnville", name="Lincolnville GO Station"}
+{country="India", altitude=0, code="", city="Mormugao", name="Mormugao-Goa Port"}
+{country="India", altitude=0, code="", city="Cochin", name="Cochin Port"}
+{country="Malaysia", altitude=0, code="", city="Penang", name="Penang Cruise Terminal"}
+{country="Malaysia", altitude=0, code="", city="Port Klang", name="Port Klang-Kuala Lumpur Cruise Terminal"}
+{country="Singapore", altitude=0, code="", city="Singapore", name="Singapore Cruise Terminal"}
+{country="United States", altitude=550, code="2H0", city="Shelbyville", name="Shelby County Airport"}
+{country="United States", altitude=732, code="", city="Champaign", name="Illinois Terminal"}
+{country="United States", altitude=733, code="", city="Mattoon", name="Mattoon Amtrak"}
+{country="China", altitude=3020, code="LLV", city="Lvliang", name="Dawu"}
+{country="Netherlands", altitude=0, code="", city="Delft", name="Delft Central"}
+{country="China", altitude=14472, code="DCY", city="Daocheng", name="Yading Daocheng"}
+{country="China", altitude=10466, code="GXH", city="Xiahe city", name="Gannan"}
+{country="Maldives", altitude=0, code="", city="Komandoo", name="Komandoo"}
+{country="Maldives", altitude=0, code="", city="Komandoo", name="Komandoo"}
+{country="Marshall Islands", altitude=10, code="", city="Meck Island", name="Meck Island Airstrip"}
+{country="Russia", altitude=210, code="", city="Nizhny Novgorod", name="Sormovo"}
+{country="United States", altitude=4813, code="1G4", city="Peach Springs", name="Grand Canyon West Airport"}
+{country="Sweden", altitude=10, code="", city="Vangso", name="Vangso"}
+{country="Russia", altitude=400, code="", city="Moscow", name="Yaroslavsky Station"}
+{country="Russia", altitude=558, code="", city="Perm", name="Railway Station"}
+{country="Russia", altitude=531, code="", city="Novosibirsk", name="Railway Station"}
+{country="Mongolia", altitude=4300, code="", city="Ulan Bator", name="Railway Station"}
+{country="China", altitude=130, code="", city="Beijing", name="Main Station"}
+{country="Russia", altitude=1305, code="", city="Irkutsk", name="Railway Station"}
+{country="Maldives", altitude=10, code="", city="Kuredu", name="Kuredu "}
+{country="Sweden", altitude=100, code="", city="Umea", name="Heliport NUS"}
+{country="Sweden", altitude=10, code="", city="Sundsvall", name="Heliport SU"}
+{country="Italy", altitude=756, code="CIY", city="Comiso", name="Comiso"}
+{country="Botswana", altitude=1000, code="", city="Leroo La Tau", name="Leroo La Tau"}
+{country="Botswana", altitude=1000, code="", city="Xaxanaka", name="Xaxanaka"}
+{country="Botswana", altitude=1000, code="", city="Xugana", name="Xugana"}
+{country="Botswana", altitude=1000, code="", city="Nxamaseri", name="Nxamaseri"}
+{country="Botswana", altitude=1000, code="", city="Kwando", name="Kwando"}
+{country="United States", altitude=141, code="", city="Boston", name="Boston North Station"}
+{country="United States", altitude=77, code="", city="Rockport", name="Rockport Station"}
+{country="United States", altitude=26, code="", city="Salem", name="Salem Station"}
+{country="United States", altitude=26, code="", city="Salem", name="Salem Ferry Dock"}
+{country="United States", altitude=16, code="", city="Boston", name="Long Wharf"}
+{country="United States", altitude=532, code="", city="Joliet", name="Joliet Union Station"}
+{country="United States", altitude=703, code="", city="New Lenox", name="Laraway Road"}
+{country="United States", altitude=592, code="", city="Chicago", name="Lasalle Station"}
+{country="United Kingdom", altitude=10, code="", city="London", name="Waterloo International"}
+{country="United States", altitude=16, code="", city="Norfolk", name="Norfolk Station"}
+{country="Canada", altitude=0, code="", city="London", name="London Railway Station"}
+{country="United States", altitude=50, code="", city="Gloucester", name="Gloucester Station"}
+{country="Canada", altitude=1083, code="", city="Kitchener", name="Kitchener Bus Terminal"}
+{country="Canada", altitude=13, code="", city="Quebec", name="Gare du Palais"}
+{country="United States", altitude=1168, code="", city="Johnstown", name="Johnstown Amtrak"}
+{country="United States", altitude=738, code="", city="Enumclaw", name="Enumclaw Airport"}
+{country="United States", altitude=1063, code="9G1", city="Tarentum", name="Rock Airport"}
+{country="United States", altitude=70, code="", city="New York", name="Grand Central Terminal"}
+{country="United States", altitude=200, code="", city="New York", name="Tremont"}
+{country="United States", altitude=11, code="2B2", city="Newburyport", name="Plum Island Airport"}
+{country="United States", altitude=100, code="", city="Brooks Camp", name="Brooks Camp"}
+{country="United States", altitude=1000, code="LKK", city="Kulik Lake", name="Kulik Lake Airport"}
+{country="United Kingdom", altitude=25, code="ZGG", city="Glasgow", name="Central Station"}
+{country="United Kingdom", altitude=89, code="QQU", city="London", name="Euston Station"}
+{country="United Kingdom", altitude=10, code="QQW", city="London", name="Waterloo International"}
+{country="Russia", altitude=400, code="", city="Moscow", name="Belorussky Station"}
+{country="Russia", altitude=285, code="", city="Omsk", name="Railway Station"}
+{country="Russia", altitude=446, code="", city="Krasnoyarsk", name="Railway Station"}
+{country="Russia", altitude=1975, code="", city="Naushki", name="Railway Station"}
+{country="China", altitude=3159, code="", city="Erlian", name="Railway Station"}
+{country="China", altitude=0, code="", city="Guangzhou", name="Guangzhoudong Railway Station"}
+{country="Russia", altitude=207, code="", city="Moscow", name="Domodedovo"}
+{country="Russia", altitude=59, code="", city="St. Petersburg", name="Levashovo"}
+{country="Canada", altitude=180, code="", city="Minaki", name="Kettle Falls Lodge"}
+{country="Russia", altitude=500, code="", city="Severobajkalsk", name="Severobajkalsk Port"}
+{country="Russia", altitude=20, code="", city="Vanino", name="Vanino-Port"}
+{country="Russia", altitude=29, code="", city="Holmsk", name="Holmsk-Port"}
+{country="Russia", altitude=10, code="", city="Nogliki", name="Nogliki"}
+{country="Russia", altitude=89, code="KVM", city="Markovo", name="Markovo Airport"}
+{country="Russia", altitude=679, code="", city="Seymchan", name="Seymchan Airport"}
+{country="Russia", altitude=118, code="ZKP", city="Zyryanka", name="Zyryanka West Airport"}
+{country="Russia", altitude=2129, code="", city="Susuman", name="Susuman Airport"}
+{country="Russia", altitude=2431, code="", city="OYMYAKON", name="OYMYAKON"}
+{country="Russia", altitude=561, code="UMS", city="Ust-Maya", name="Ust-Maya Airport"}
+{country="Russia", altitude=2241, code="ADH", city="Aldan", name="Aldan Airport"}
+{country="Russia", altitude=426, code="", city="Olekminsk", name="Olekminsk Airport"}
+{country="Russia", altitude=610, code="", city="Vitim", name="Vitim Airport"}
+{country="Germany", altitude=10, code="", city="Pellworm", name="Pellworm"}
+{country="Russia", altitude=350, code="", city="Tynda", name="Tynda"}
+{country="Russia", altitude=280, code="", city="Tommot", name="Tommot"}
+{country="France", altitude=102, code="", city="Etretat", name="Etretat"}
+{country="France", altitude=13, code="", city="Le Havre", name="Le Havre"}
+{country="Germany", altitude=208, code="", city="Weimar", name="Weimar"}
+{country="China", altitude=0, code="NLT", city="Xinyuan", name="Nalati"}
+{country="United States", altitude=253, code="PTA", city="Port alsworth", name="Port Alsworth Airport"}
+{country="France", altitude=3663, code="BOR", city="Belfort", name="Fontaine Airport"}
+{country="Brazil", altitude=8708, code="BHZ", city="Belo Horizonte", name="Pampulha"}
+{country="United States", altitude=577, code="FDW", city="Winnsboro", name="Fairfield County Airport"}
+{country="Djibouti", altitude=69, code="OBC", city="Obock", name="Obock"}
+{country="Djibouti", altitude=246, code="TDJ", city="Tadjoura", name="Tadjoura"}
+{country="Guatemala", altitude=6631, code="AQB", city="Santa Cruz des Quiche", name="Santa Cruz des Quiche Airport"}
+{country="Iceland", altitude=3648, code="NOR", city="Nordfjordur", name="Nordfjordur Airport"}
+{country="Turkey", altitude=772, code="BTZ", city="Bursa", name="Bursa Airport"}
+{country="United States", altitude=321, code="DAW", city="Rochester", name="Skyhaven Airport"}
+{country="Indonesia", altitude=1224, code="WAR", city="Waris-Papua Island", name="Waris Airport"}
+{country="United States", altitude=142, code="PRL", city="Port Oceanic", name="Port Oceanic Airport"}
+{country="United States", altitude=1533, code="EWK", city="Newton", name="Newton City-County Airport"}
+{country="France", altitude=453, code="", city="La Ferte Alais", name="La Ferte Alais Airport"}
+{country="Indonesia", altitude=4200, code="", city="Angguruk", name="Angguruk airstrip"}
+{country="Australia", altitude=165, code="BSJ", city="Bairnsdale", name="Bairnsdale Airport"}
+{country="United States", altitude=905, code="TZR", city="Columbus", name="Bolton Field"}
+{country="United States", altitude=15, code="W04", city="Ocean Shores", name="Ocean Shores Municipal"}
+{country="United States", altitude=1057, code="55S", city="Packwood", name="Packwood"}
+{country="United States", altitude=7038, code="FBR", city="Fort Bridger", name="Fort Bridger"}
+{country="United States", altitude=705, code="S40", city="Prosser", name="Prosser"}
+{country="United States", altitude=177, code="CLS", city="Chehalis", name="Chehalis-Centralia"}
+{country="United States", altitude=586, code="M94", city="Mattawa", name="Desert Aire"}
+{country="United States", altitude=344, code="S30", city="Lebanon", name="Lebanon State"}
+{country="United States", altitude=7143, code="EVW", city="Evanston", name="Evanston-Uinta CO Burns Fld"}
+{country="United States", altitude=1330, code="K83", city="Sabetha", name="Sabetha Municipal"}
+{country="United States", altitude=12, code="LRO", city="Mount Pleasant", name="Mount Pleasant Regional-Faison Field"}
+{country="United States", altitude=468, code="ACJ", city="Americus", name="Jimmy Carter Regional"}
+{country="United States", altitude=285, code="EUF", city="Eufala", name="Weedon Field"}
+{country="United States", altitude=539, code="6J4", city="Saluda", name="Saluda County"}
+{country="United States", altitude=13, code="MQI", city="Manteo", name="Dare County Regional"}
+{country="United States", altitude=777, code="AUO", city="Auburn", name="Auburn University Regional"}
+{country="United States", altitude=833, code="CZG", city="Endicott", name="Tri-Cities"}
+{country="Puerto Rico", altitude=10, code="", city="Culebrita", name="Isla Culebrita"}
+{country="Puerto Rico", altitude=10, code="", city="Isla Culebrita", name="Culebrita"}
+{country="Australia", altitude=10, code="", city="Apollo Bay", name="Apollo Bay"}
+{country="Azerbaijan", altitude=0, code="", city="Baku", name="Zabrat"}
+{country="Azerbaijan", altitude=0, code="", city="Caspian Sea", name="Chirag"}
+{country="United States", altitude=10, code="", city="Kendall", name="Kendal Glider Port"}
+{country="Thailand", altitude=10, code="", city="Lipa Noi", name="Lipa Noi Pier"}
+{country="Thailand", altitude=10, code="", city="Don Sak", name="Don Sak Pier"}
+{country="United States", altitude=700, code="EKY", city="Bessemer", name="Bessemer"}
+{country="United States", altitude=6145, code="A50", city="Ellicott", name="Colorado Springs East"}
+{country="Canada", altitude=3360, code="", city="Didsbury", name="Olds Didsbury Airport"}
+{country="Canada", altitude=3663, code="", city="Sundre", name="Sundre Airport"}
+{country="United States", altitude=676, code="", city="Depew", name="Buffalo-Depew Station"}
+{country="United States", altitude=722, code="", city="South Bend", name="South Bend Station"}
+{country="United States", altitude=630, code="", city="Michigan City", name="Carroll Avenue NICTD Station"}
+{country="United States", altitude=620, code="", city="Chicago", name="Chicago Millennium Station"}
+{country="United States", altitude=476, code="", city="St. Louis", name="St. Louis Gateway Transportation Center"}
+{country="United States", altitude=791, code="", city="Kansas City", name="Kansas City Union Station"}
+{country="United States", altitude=4970, code="", city="Albuquerque", name="Alvarado Transportation Center"}
+{country="United States", altitude=15, code="", city="San Francisco", name="San Francisco 4th and King St. Station"}
+{country="United States", altitude=13, code="", city="Oakland", name="Oakland Jack London Square Station"}
+{country="United States", altitude=15, code="", city="Mountain View", name="Downtown Mountain View Station"}
+{country="United States", altitude=15, code="", city="San Mateo", name="San Mateo Station"}
+{country="United States", altitude=15, code="", city="Sunnyvale", name="Sunnyvale Station"}
+{country="United States", altitude=15, code="", city="San Mateo", name="Millbrae Intermodal Terminal"}
+{country="United States", altitude=679, code="", city="Cleveland", name="Cleveland Greyhound Station"}
+{country="Kyrgyzstan", altitude=5426, code="???", city="Tamchy", name="Issyk-Kul International Airport"}
+{country="United States", altitude=869, code="MIC", city="Crystal", name="Crystal Airport"}
+{country="United States", altitude=320, code="23M", city="Quitman", name="Clarke CO"}
+{country="Maldives", altitude=0, code="", city="Ellaidhoo", name="Ellaidhoo"}
+{country="United States", altitude=311, code="DBN", city="Dublin", name="W H Barron Field"}
+{country="United States", altitude=33, code="", city="New York", name="Port Authority"}
+{country="United States", altitude=338, code="", city="Allentown", name="Bus Terminal"}
+{country="United States", altitude=850, code="", city="Binghamton", name="Binghamton Bus Terminal"}
+{country="United States", altitude=380, code="", city="Syracuse", name="William F. Walsh Regional Transportation Center"}
+{country="United States", altitude=456, code="UCA", city="Utica", name="Union Station"}
+{country="United States", altitude=604, code="", city="Clinton", name="Clinton Bus Stop"}
+{country="Ireland", altitude=19, code="", city="Dublin", name="Heuston Station"}
+{country="Ireland", altitude=144, code="", city="Killarney", name="Killarney Station"}
+{country="United States", altitude=518, code="", city="Williamsport", name="Susquehanna Trailways Terminal"}
+{country="United States", altitude=525, code="", city="Wilkes-Barre", name="Martz Trailways Bus Terminal"}
+{country="United States", altitude=1689, code="", city="Hazelton", name="Hazelton Bus Station"}
+{country="United States", altitude=456, code="", city="Lewisburg", name="Lewisburg Bus Stop"}
+{country="United States", altitude=266, code="", city="Madison", name="Madison NJT Station"}
+{country="United States", altitude=115, code="", city="Maplewood", name="Maplewood NJT Station"}
+{country="United States", altitude=320, code="", city="Harrisburg", name="Harrisburg Transportation Center"}
+{country="United States", altitude=180, code="", city="Poughkeepsie", name="Metro-North Station"}
+{country="United States", altitude=0, code="", city="Fort Lauderdale", name="Port Everglades"}
+{country="Virgin Islands", altitude=0, code="", city="Charlotte Amalie", name="Crown Bay"}
+{country="Dominica", altitude=0, code="", city="Roseau", name="Cruise Ship Dock"}
+{country="Grenada", altitude=0, code="", city="St. George's", name="Grenada Port Authority Cruise Ship Terminal"}
+{country="Martinique", altitude=0, code="", city="Fort de France", name="Martinique Cruise Terminal"}
+{country="Netherlands Antilles", altitude=0, code="", city="Philipsburg", name="Dr AC Wathey Cruise Pier"}
+{country="Bahamas", altitude=0, code="", city="Little San Salvador Island", name="Half Moon Cay"}
+{country="French Polynesia", altitude=6, code="PUK", city="Pukarua", name="Pukarua Airport"}
+{country="Uganda", altitude=5850, code="", city="Kabale", name="Kabale"}
+{country="Virgin Islands", altitude=0, code="", city="Cruz Bay", name="Cruz Bay Ferry Dock"}
+{country="Virgin Islands", altitude=0, code="", city="Red Hook", name="Red Hook Bay Ferry Dock"}
+{country="Martinique", altitude=0, code="", city="Fort-de-France", name="Gare Routiere de Fort-de-France"}
+{country="Martinique", altitude=0, code="", city="Saint Pierre", name="Saint Pierre"}
+{country="Netherlands Antilles", altitude=0, code="", city="Philipsburg", name="Philipsburg Bus Stop"}
+{country="France", altitude=0, code="", city="Marigot", name="Marigot Bus Stop"}
+{country="United States", altitude=374, code="", city="Summit", name="Summit NJT Station"}
+{country="Zambia", altitude=2695, code="", city="Dambwa - Livingstone", name="Batoka Airfield"}
+{country="Spain", altitude=23, code="", city="Sevilla", name="Santa Justa"}
+{country="Spain", altitude=390, code="", city="Cordoba", name="Cordoba Station"}
+{country="Spain", altitude=2421, code="", city="Granada", name="Granada Station"}
+{country="Spain", altitude=2188, code="", city="Madrid", name="Atocha"}
+{country="United States", altitude=250, code="CVO", city="Corvallis", name="Corvallis Muni"}
+{country="India", altitude=50, code="", city="Boisar", name="Helipad of Viraj Group"}
+{country="Azerbaijan", altitude=0, code="", city="Caspian Sea", name="Heydar Aliyev"}
+{country="Canada", altitude=3386, code="", city="Phantom Lake", name="Phantom Lake"}
+{country="Romania", altitude=78, code="", city="Tuzla", name="Tuzla"}
+{country="Spain", altitude=1736, code="", city="Toledo", name="Toledo Railway Station"}
+{country="Spain", altitude=2188, code="", city="Madrid", name="Chamartin Station"}
+{country="Spain", altitude=62, code="", city="Bilbao", name="Abando"}
+{country="Spain", altitude=39, code="", city="Barcelona", name="Aeroport"}
+{country="Spain", altitude=39, code="", city="Barcelona", name="Passeig de Gracia"}
+{country="Spain", altitude=39, code="", city="Barcelona", name="Sants"}
+{country="Spain", altitude=128, code="", city="Figueres", name="Railway Station"}
+{country="United States", altitude=745, code="", city="Scranton", name="Martz Trailways"}
+{country="United States", altitude=62, code="", city="New Brunswick", name="New Brunswick Station"}
+{country="United States", altitude=49, code="", city="Trenton", name="Trenton Transit Center"}
+{country="United States", altitude=39, code="", city="Philadelphia", name="Holmesburg Jct Station"}
+{country="United States", altitude=213, code="", city="White Plains", name="White Plains"}
+{country="United States", altitude=338, code="", city="Southeast", name="Southeast"}
+{country="United States", altitude=0, code="", city="San Diego", name="B Street Cruise Terminal"}
+{country="Mexico", altitude=0, code="", city="Puerto Vallarta", name="Terminal Maritima"}
+{country="Mexico", altitude=0, code="", city="Cabo San Lucas", name="Bahia San Lucas"}
+{country="United States", altitude=0, code="", city="Anacortes", name="Ferry Terminal"}
+{country="United States", altitude=0, code="", city="Friday Harbor", name="Ferry Dock"}
+{country="United States", altitude=315, code="", city="Morristown", name="Morristown Station"}
+{country="United States", altitude=0, code="", city="Seattle", name="Port of Seattle"}
+{country="United States", altitude=0, code="", city="Whittier", name="Ferry Terminal"}
+{country="United States", altitude=0, code="", city="Valdez", name="Ferry Terminal"}
+{country="Reunion", altitude=103, code="", city="Saint-Louis", name="Gare Routiere"}
+{country="Reunion", altitude=190, code="", city="La Riviere", name="Bus Stop"}
+{country="Reunion", altitude=4000, code="", city="Cilaos", name="Bus Stop"}
+{country="Reunion", altitude=3000, code="", city="Hell-Bourg", name="Bus Stop"}
+{country="Reunion", altitude=3000, code="", city="Salazie", name="Bus Stop"}
+{country="Reunion", altitude=100, code="", city="St Andre", name="Gare"}
+{country="Reunion", altitude=0, code="", city="Saint Denis", name="L'Ocean Bus Terminal"}
+{country="Reunion", altitude=0, code="", city="Saint Pierre", name="Gare Routiere"}
+{country="Seychelles", altitude=0, code="", city="Praslin", name="Baie Ste Anne"}
+{country="Seychelles", altitude=0, code="", city="La Digue", name="La Passe"}
+{country="United States", altitude=0, code="", city="Bainbridge Island", name="Ferry Dock"}
+{country="Cambodia", altitude=0, code="", city="Phnom Penh", name="Bus"}
+{country="Cambodia", altitude=0, code="", city="Siem Reap", name="Bus"}
+{country="Cambodia", altitude=0, code="", city="Sihanoukville", name="Bus"}
+{country="Cambodia", altitude=0, code="", city="Kampot", name="Bus"}
+{country="Cambodia", altitude=0, code="", city="Kep", name="Bus"}
+{country="Taiwan", altitude=0, code="", city="Taipei", name="Main Station"}
+{country="Australia", altitude=734, code="PXH", city="Prominent Hill", name="Prominent Hill"}
+{country="United States", altitude=978, code="CWT", city="Chatsworth", name="Chatsworth Station"}
+{country="Spain", altitude=0, code="", city="Algerciras", name="Algerciras Port"}
+{country="Canada", altitude=0, code="YGG", city="Ganges", name="Ganges Water Aerodrome"}
+{country="Canada", altitude=0, code="YPT", city="Pender Harbour", name="Pender Harbour Water Aerodrome"}
+{country="Canada", altitude=0, code="YMU", city="Mansons Landing", name="Mansons Landing Water Aerodrome"}
+{country="Canada", altitude=225, code="YMP", city="Port McNeill", name="Port McNeill Airport"}
+{country="Canada", altitude=0, code="YTG", city="Sullivan Bay", name="Sullivan Bay Water Aerodrome"}
+{country="United States", altitude=0, code="DHB", city="Deer Harbor", name="Deer Harbor Seaplane"}
+{country="United States", altitude=0, code="OLT", city="San Diego", name="San Diego Old Town Transit Center"}

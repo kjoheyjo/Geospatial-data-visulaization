@@ -10,8 +10,7 @@ import processing.core.PGraphics;
 /** 
  * A class to represent AirportMarkers on a world map.
  *   
- * @author Adam Setters and the UC San Diego Intermediate Software Development
- * MOOC team
+ * @author Kaustubh Joshi
  *
  */
 public class AirportMarker extends CommonMarker {
@@ -33,6 +32,12 @@ public class AirportMarker extends CommonMarker {
 	@Override
 	public void showTitle(PGraphics pg, float x, float y) {
 		 // show rectangle with title
+		String title =  this.getStringProperty("name");
+		pg.fill(245, 255, 101);
+		pg.rect(x, y, pg.textWidth(title), 20);
+		
+		pg.fill(0);
+		pg.text(title, x, y+15);
 		
 		// show routes
 		
